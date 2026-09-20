@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Mandos por consola, remapeo teclado/pad y actualizaciones en línea. Se conservan partidas y ajustes.",
-  "pub_date": "2026-09-20T05:35:00Z",
+  "version": "0.1.2",
+  "notes": "Fix: el remapeo de teclas se aplica in-game. Se conservan partidas y ajustes.",
+  "pub_date": "2026-09-20T06:50:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEYxNzZvUXpNdEFsTWxZd0dWTUR0bERJT09XM1FuTUkzTmd0TlJ6Y244Q2J0NHBRYmJZb1dkV3dNRVg2aEEvN054SGdwNkgwdllTdTEzMmcxanFJY2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODgxMjQ2CWZpbGU6YWxsRW11XzAuMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMQpzeDMvQjE1NUJ6YURyenVmSzR0dFh0ZGIzb2ZVUGoxczhmcWZnQ0oxZ0pBUVJzL0JhN2lDeE5PODdTU2VaYm1NSHV2dXVnU0MxSytiRmYvTWZtczREUT09Cg==",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.1/allEmu_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEJsNForL05xRnZUWGtEd2FnUUp4UWJIeUVHTlphR1BsTGVzS0RoYjhtVnFVVi9zMG55WFFyVUczY0JzQm1ObHkydC9zWG01UFpMckZuZ3dnOW9iN3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODg2ODc3CWZpbGU6YWxsRW11XzAuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMgovVUlpM1ZCTXNZdHdvSUgxY0NrNTMvSGxxbklBdzh1V3dUQktjdmNFaWxSdUdNbWt0UVdNMjNGSyt5aDBZVFVXV0JjZG9FWWJLMTVNcWZGUzZ3L29Bdz09Cg==",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.2/allEmu_0.1.2_x64-setup.exe"
     }
   }
 }
