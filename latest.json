@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "Canal de updates listo. Sustituí signature y url tras el primer build firmado.",
-  "pub_date": "2026-09-20T03:00:00Z",
+  "version": "0.1.1",
+  "notes": "Vista de mando por consola al asignar teclas (Esc y Ajustes), remapeo teclado/pad con guardado automático, overlay difuminado. Conserva partidas y configs.",
+  "pub_date": "2026-09-20T05:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "REPLACE_WITH_UPDATER_SIGNATURE",
-      "url": "https://updates-allemux.onrender.com/releases/allEmu_0.1.0_x64-setup.nsis.zip"
+      "signature": "REPLACE_AFTER_SIGNED_BUILD",
+      "url": "https://updates-allemux.onrender.com/releases/allEmu_0.1.1_x64-setup.nsis.zip"
     }
   }
 }
