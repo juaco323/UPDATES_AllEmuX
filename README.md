@@ -23,14 +23,14 @@ No subas núcleos, ROMs ni el código de la app.
 - Tipo: **Static Site**
 - Repo: `juaco323/UPDATES_AllEmuX`
 - Publish directory: `./`
-- URL pública (ejemplo): `https://<tu-servicio>.onrender.com/latest.json`
+- URL pública: `https://updates-allemux.onrender.com/latest.json`
 
-Cuando tengas la URL de Render, configurá en `allEmu_x`:
+Cuando configures el updater en `allEmu_x`:
 
 ```json
 "plugins": {
   "updater": {
-    "endpoints": ["https://<tu-servicio>.onrender.com/latest.json"],
+    "endpoints": ["https://updates-allemux.onrender.com/latest.json"],
     "pubkey": "<clave pública minisign>"
   }
 }
