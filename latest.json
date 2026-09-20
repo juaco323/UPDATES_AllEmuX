@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Canal de updates listo. Sustituí signature y url tras el primer build firmado.",
+  "pub_date": "2026-09-20T03:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "REPLACE_WITH_UPDATER_SIGNATURE",
+      "url": "https://REPLACE_WITH_RENDER_HOST/releases/allEmu_0.1.0_x64-setup.nsis.zip"
+    }
+  }
+}

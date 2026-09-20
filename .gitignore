@@ -1,0 +1,20 @@
+# Artefactos sueltos en la raíz (los de releases/ sí se pueden versionar o enlazar)
+/*.exe
+/*.msi
+/*.nsis.zip
+/*.AppImage
+/*.dmg
+/*.deb
+/*.rpm
+
+# Nunca subas la clave privada de firma
+*.key
+tauri_*.key
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
