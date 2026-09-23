@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "Update parche: solo app. No reinstala ROMs/covers/saves. Remapeo de teclas in-game.",
-  "pub_date": "2026-09-20T07:10:00Z",
+  "version": "0.1.4",
+  "notes": "Parche: video se guarda al instante; remapeo teclado/mando aplica in-game; navegacion biblioteca con mando (L/R consolas).",
+  "pub_date": "2026-09-23T14:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSE9oRHpxR0phK09lSS9VUklscVh0azI2dUZ2YmxoU0ZxN1Fsc0ljaWlhN3RTc3RVdklKQWY3MlRGWSt5TVRzN3ZNaGswdncyRW5HY3BQSGRvUzMzOUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODg3ODg1CWZpbGU6YWxsRW11XzAuMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMwpFc3k1Lys1LzRvc01HQWU0VnAxNENhQXJyZlFtQjNSOW1ja0lYcG15aHlQVUt5VGpqUjRBbzJ1Uk5hVmNveEdValE4MFZDNEFtUVEwT1FuNVBtdkFBUT09Cg==",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.3/allEmu_0.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSElHSkRCN0pLWEgxTjRNMXROZXplZmkzd0FtcW0wWDl1dndqT2NIM3lUM1Q1cDl5UjJiQXdIVFE2dXYwRXFSdTBKR0hUbFBjcEIrNXFtUUs4YzRuREFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTczNTcxCWZpbGU6YWxsRW11XzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNApRNGl3cG5qbDhLSDh1RzVNZ3ZCWHYwNTA0NUtrQ09ta0ZvTnJYWE0wRTRWc3dub2IwbXp6RDFRdE0xUHg0WXpPZHNtUm04Rnc2ZUxGc3dKeVpqdlBCQT09Cg==",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.4/allEmu_0.1.4_x64-setup.exe"
     }
   }
 }
