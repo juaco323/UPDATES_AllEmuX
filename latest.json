@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "notes": "Parche: video se guarda al instante; remapeo teclado/mando aplica in-game; navegacion biblioteca con mando (L/R consolas).",
   "pub_date": "2026-09-23T14:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSElHSkRCN0pLWEgxTjRNMXROZXplZmkzd0FtcW0wWDl1dndqT2NIM3lUM1Q1cDl5UjJiQXdIVFE2dXYwRXFSdTBKR0hUbFBjcEIrNXFtUUs4YzRuREFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTczNTcxCWZpbGU6YWxsRW11XzAuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNApRNGl3cG5qbDhLSDh1RzVNZ3ZCWHYwNTA0NUtrQ09ta0ZvTnJYWE0wRTRWc3dub2IwbXp6RDFRdE0xUHg0WXpPZHNtUm04Rnc2ZUxGc3dKeVpqdlBCQT09Cg==",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.4/allEmu_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEloZWpnZHp3Rmx3N0JRMjdSVkk2K2JBR2JuVnIxUFNQZm5PaUc3QWRtVUE2YnNZUE1TUnZzQXBTN3A2TlovWTBnaHEraVVUT1FtdFhWTXl3N3NjZ1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTc1MjA2CWZpbGU6YWxsRW11XzAuMS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNQp0alIwL2JlQ250NlliUGhJWjc4TE5wa2Z4UDJRempkSlVJb2NnY0ltMVZ6alI1ajhTNjNSS3VUZGUzREhteFNwaFZmN2Y3WVdMR3lUcHZmSWxxbStBZz09Cg==",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.5/allEmu_0.1.5_x64-setup.exe"
     }
   }
 }
