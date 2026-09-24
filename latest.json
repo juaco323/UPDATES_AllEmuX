@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
-  "notes": "Parche beta: resolución/fullscreen/VSync; remapeo teclas; pausa con mando; autoguardado al salir; vídeo en modo consola.",
-  "pub_date": "2026-09-23T21:00:00Z",
+  "version": "0.1.10",
+  "notes": "Fix remapeo: teclado in-game usa el perfil asignado (webview). Probá remapear B→otra tecla en NES/SNES.",
+  "pub_date": "2026-09-24T05:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEtCTlprWmpER0FWbFNDQVdrcEExQUttYXE0dllELzlvNjhpcWdMUmY5WXFFNTZSVHRaaUh5ajZ1c2ZDZUl1N2k4VzljSHB5NXlyTUZMSFJTaDFvRUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjIwOTMyCWZpbGU6YWxsRW11XzAuMS45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuOQpaVkJoWS9UdFhzNmFZWCs1QWdVY2xXVnhwaVFaVDhlTVJSL2tBZEs5dG5xTi9SaGpTelcrUDJwV3JEWEtWYkVYRXV4a243czVQczVkbU1GS0hMWm1BZz09Cg==",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.9/allEmu_0.1.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEg0MExuV0ovWTFNVW9FUGxEZFhpbnBVQk8vM0t3cTZJMzRPSklFNWlORTdjMGpGdnRqWEdBVkhRY2dvM3Y2QzVnejl3MmI2WU1iRzRIYjN3aDJMckF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjI0MDM5CWZpbGU6YWxsRW11XzAuMS4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEwCkQ0YU9ISTRtdW1IV0VkNW9CZnlTZVAxZ2d1VjRsMzA5clY0REgvUHcyNmE4SWROTzVMbXVxaEZRZGZmempkNEt3K2pFbUUrUmNDNzVHNk9HakNSRUJRPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.10/allEmu_0.1.10_x64-setup.exe"
     }
   }
 }
