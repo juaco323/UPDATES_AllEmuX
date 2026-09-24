@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
+  "version": "0.1.11",
   "notes": "Fix remapeo: teclado in-game usa el perfil asignado (webview). Probá remapear B→otra tecla en NES/SNES.",
   "pub_date": "2026-09-24T05:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEg0MExuV0ovWTFNVW9FUGxEZFhpbnBVQk8vM0t3cTZJMzRPSklFNWlORTdjMGpGdnRqWEdBVkhRY2dvM3Y2QzVnejl3MmI2WU1iRzRIYjN3aDJMckF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjI0MDM5CWZpbGU6YWxsRW11XzAuMS4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEwCkQ0YU9ISTRtdW1IV0VkNW9CZnlTZVAxZ2d1VjRsMzA5clY0REgvUHcyNmE4SWROTzVMbXVxaEZRZGZmempkNEt3K2pFbUUrUmNDNzVHNk9HakNSRUJRPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.10/allEmu_0.1.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEFVUTZMN1g3aHdONXZVaVg1Tzl0RzRVWGVWNmdmbndTaFV4MGFDcUpwV1NoOG0xL0N3MGh5RzJWUVpqSjV2Q3Q3cGFybEI5dEdxaXJIbThqSGt0T2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjI2ODIxCWZpbGU6YWxsRW11XzAuMS4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjExCjJQU3h1YmN5ZFFlc0xtU1Z0aWJpMkVEckpCS3p5NGdCYmtEWHVWeVV1M1ptYnFseUVadFhMZnNadk95TE9YeHk3Qkg1N2NmQVp2TEFXQU4yUS9BekNnPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.11/allEmu_0.1.11_x64-setup.exe"
     }
   }
 }
