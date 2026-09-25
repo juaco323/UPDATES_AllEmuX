@@ -1,11 +1,11 @@
 {
-  "version": "0.1.13",
-  "notes": "Parche: en PS1 el teclado y el mando vuelven a funcionar en juegos solo-digitales (Mega Man X4, etc.). Incluye todo lo de 0.1.12.",
-  "pub_date": "2026-09-25T09:00:00Z",
+  "version": "0.1.14",
+  "notes": "Parche: Esc en el menú pregunta si salir; al instalar el núcleo de PS1/PS2 pide la BIOS; PS1 ya no muestra el .bin duplicado; mando de PS2 propio y Dreamcast corregido (X amarilla); carátulas personalizadas se adaptan a su proporción.",
+  "pub_date": "2026-09-25T15:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEpWWWY3T2lGSWY0a2Exd1FwVDlFWHhJRkd2dDl4dlJQYWhCWndaK2IzVmxKcUtWWU1CdXE2MHBzdWJwc2ptZnZVOXB2bXA0NzBVTWppSjhrS0xweHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzQ1OTM5CWZpbGU6YWxsRW11XzAuMS4xM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEzCnYzZTVoZTY1NHBuU1FtcHVGOEwzMnovK1ZVd1Z3VktkMVVjNWpNdTVjYTQvM1RBamw3emdQN3lBUGtrSDRvNUJ2ejZvb3JQM2tOOUxENVcrazhUeUF3PT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.13/allEmu_0.1.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEQvODNLYk1NK0dwSUFjNlFvOVBRc0t4Nm1FOXBXakVuTXJ3ejZhaDZlTkNWb2lSR3ZXR01Xck9nMDNSOUZYK3d4VTNKM2svVk5ncnYxcXAxM3o2OGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzQ4MDI4CWZpbGU6YWxsRW11XzAuMS4xNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE0Cm5CSmxyL0ZKRFBHYW1VejltTTc1TVdlMTI0b0VCdjN6R2ZTVjc5UVdpVGhuMEQ4T2p6STNMMjJoNWpIaWZCWGRNOHJybjdRc2srTHpCZmUxTFJQVEFBPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.14/allEmu_0.1.14_x64-setup.exe"
     }
   }
 }
