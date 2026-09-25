@@ -1,11 +1,11 @@
 {
-  "version": "0.1.11",
-  "notes": "Fix remapeo: teclado in-game usa el perfil asignado (webview). Probá remapear B→otra tecla en NES/SNES.",
-  "pub_date": "2026-09-24T05:00:00Z",
+  "version": "0.1.12",
+  "notes": "Parche: mapeo de teclas/mando reparado (incl. PS2), Vulkan real + OpenGL más rápido, audio PS1 estable (PAL/NTSC), partidas del juego (SRAM) se guardan, slot Auto en Cargar, avance rápido (Tab / Select+R2), pausa por mando y al perder foco, Dreamcast (Flycast), mandos interactivos, gestor de núcleos.",
+  "pub_date": "2026-09-25T07:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEFVUTZMN1g3aHdONXZVaVg1Tzl0RzRVWGVWNmdmbndTaFV4MGFDcUpwV1NoOG0xL0N3MGh5RzJWUVpqSjV2Q3Q3cGFybEI5dEdxaXJIbThqSGt0T2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjI2ODIxCWZpbGU6YWxsRW11XzAuMS4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjExCjJQU3h1YmN5ZFFlc0xtU1Z0aWJpMkVEckpCS3p5NGdCYmtEWHVWeVV1M1ptYnFseUVadFhMZnNadk95TE9YeHk3Qkg1N2NmQVp2TEFXQU4yUS9BekNnPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.11/allEmu_0.1.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSE4zUzBrQWFEZzVkS3ZMcXBVcU5xMytOMkFJM0JkTm40UlZDN0J6YU5FeTF6cEFONEUrK09DWW1NbG5wMVg1dWtYRExHRDF4bk1rUVZBV042M3BYMWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzE5MDYwCWZpbGU6YWxsRW11XzAuMS4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEyClE5UENCTkhzSkNnSHN4U296TEJMRFlJMTBvbHB4N2VpY2RuVHJFbVQ5OVdJT2VrdDFPeHlDUzNvOFM0QVpqVS9EbWlOL3F5MnlJcUw2d28rZFEvT0FnPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.12/allEmu_0.1.12_x64-setup.exe"
     }
   }
 }
