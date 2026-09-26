@@ -1,11 +1,11 @@
 {
-  "version": "0.1.14",
-  "notes": "Parche: Esc en el menú pregunta si salir; al instalar el núcleo de PS1/PS2 pide la BIOS; PS1 ya no muestra el .bin duplicado; mando de PS2 propio y Dreamcast corregido (X amarilla); carátulas personalizadas se adaptan a su proporción.",
-  "pub_date": "2026-09-25T15:00:00Z",
+  "version": "0.1.15",
+  "notes": "Parche 0.1.15: BIOS por region del juego; aspecto 4:3/16:9/8:7; filtro CRT (shader WebGL); flujo nucleo->BIOS->ROM(+BIN); quitar ROMs; Dreamcast en romsDreamcast; cores/<consola>/.",
+  "pub_date": "2026-09-26T22:21:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEQvODNLYk1NK0dwSUFjNlFvOVBRc0t4Nm1FOXBXakVuTXJ3ejZhaDZlTkNWb2lSR3ZXR01Xck9nMDNSOUZYK3d4VTNKM2svVk5ncnYxcXAxM3o2OGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzQ4MDI4CWZpbGU6YWxsRW11XzAuMS4xNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE0Cm5CSmxyL0ZKRFBHYW1VejltTTc1TVdlMTI0b0VCdjN6R2ZTVjc5UVdpVGhuMEQ4T2p6STNMMjJoNWpIaWZCWGRNOHJybjdRc2srTHpCZmUxTFJQVEFBPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.14/allEmu_0.1.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSE5ESlNIWmhSd0h6amV5dG9FV2xTbE4zQlNkRVBGcktjd3M5Y2tZaG01N0hrZUt5aWRCRkJnbWV1QzF4ejFQNFdWYUVkcTRmdDlaZHBIbmQwTkl2WFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDYxMjM4CWZpbGU6YWxsRW11XzAuMS4xNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE1CmZpUEJNRWl2aElLbVA0dVVNeDI3MkNHTDZ3Zm13YjJOb3ZiSTlnOFQrRUFsQUUzZFhXS2Jmckh0ZHdCUnVINTduZHJRazNWSmlyMm0wRmlVN2ZQVEJBPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.15/allEmu_0.1.15_x64-setup.exe"
     }
   }
 }
