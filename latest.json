@@ -1,11 +1,11 @@
 {
-  "version": "0.1.16",
-  "notes": "Parche 0.1.16: Dreamcast Redump (.cue+.bin) se convierte a .chd con chdman y progreso en vivo; GdRomDrive lee sectores 2352 desde CHD; si ya hay .chd no se lista el .cue.",
-  "pub_date": "2026-09-26T23:24:56Z",
+  "version": "0.1.17",
+  "notes": "Parche 0.1.17: chdman va embebido en el instalador (sidecar); Dreamcast Redump se convierte a CHD sin instalar nada a mano.",
+  "pub_date": "2026-09-26T23:38:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSE5pNEFuR1RNSWlZRVBuSGh2N0NMN2V5MHNhRjJkbDkrdDl0bFIvcmpVSkRUbEJvMkhLQW5ZV2NBbnZYZ21ZU0lvbURKYkVvTXBaaGp4TWxMOHU1ZVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDY0OTA4CWZpbGU6YWxsRW11XzAuMS4xNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE2CkJ0a1V0cWZ5dWY1MTlwZXRzTFhQS0JNa05JZDlxM29Vd05UaGVXTzBhYlZ1WnNkRXBISVZHZjBCb1RoeGtZYitMeHhlRzNna1huWTZXYjN5RUttakJRPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.16/allEmu_0.1.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEhWeWhTclVIUk1IYnR3M3p5NVlZQWtOQ1FzVExQM3g3aFc3ZWd0QXFYS3g0Nm4xYytya0h4K1RoM1hvWU5abllZY0lpNUFuNldkV1F4TkJmMnN1a3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDY1NzU2CWZpbGU6YWxsRW11XzAuMS4xN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE3Ci9XRjFvUUpNNU9Ndjk1NGJwQ3NPdHg3L2Jkd05TWWUrcktkS0o4ZS9SeXF6dHpldHE5K0oyQUtMVlQyUlYvRWNnd2RIeEJzakNvNjhYdXhSd0tHSUJBPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.17/allEmu_0.1.17_x64-setup.exe"
     }
   }
 }
