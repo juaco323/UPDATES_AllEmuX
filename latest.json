@@ -1,11 +1,11 @@
 {
-  "version": "0.1.23",
-  "notes": "Parche 0.1.23: Direct3D 12 HW (PS2/PCSX2; PS1 vía D3D11). API seleccionable en Vídeo. Incluye mejoras GS PS2 previas.",
-  "pub_date": "2026-09-27T21:50:00Z",
+  "version": "0.1.24",
+  "notes": "Parche 0.1.24: Nintendo 64 (Mupen64Plus-Next) — consola, opciones GLideN64, vídeo OpenGL, keybinds, foto de mando y carátulas. Core: cores/n64/mupen64plus_next_libretro.dll (no incluido en el parche).",
+  "pub_date": "2026-09-28T00:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEdGNWdwZ2RrVVZ1RkYyUTg2R1orMXN3T2hLTmg3LzJ2Sm1hbzN0UjA5QUJyNXBNRHpaeXU1Visxd3RYY0d5VEl6NDlaNWlSM0hJTUNpSFc1MlB3NWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTQ1ODI3CWZpbGU6YWxsRW11XzAuMS4yM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIzCkxJbUF6UFhIWWN3NXA5V3lCdzBVMHpmSXFsNlI1MVZ4Sm5qdFBNeW10UlF5Y25LaEEyb2tVcU50YzBtbDZGVWtKYlcveE1Sd1FkYTJ2a0dySzIrc0N3PT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.23/allEmu_0.1.23_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEdEOHVwT3Z5WWc4TkJYd29lTGdkU0c3cDlpMTR1ZTY4R3cxMlpvalVQS21nQXZUQVlvTlVGaXhqT0hFT2R4NS9SMUZmM2U2RWo1bTlVZXRzZ0xJZmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTUwNjk1CWZpbGU6YWxsRW11XzAuMS4yNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI0Ci9RVTdTK3BoSG5tdDFuY05acFdsMFRtbHNLMSt6WUhrWjdVREJtSmlKSWtjdkZhd1k5UmpZT3NSWGJ2N3F1NlZyYzUzWWF5NzNaTTI0UlMwRG90TUFBPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.24/allEmu_0.1.24_x64-setup.exe"
     }
   }
 }
