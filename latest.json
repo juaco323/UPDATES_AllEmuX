@@ -1,11 +1,11 @@
 {
-  "version": "0.1.18",
-  "notes": "Parche 0.1.18: conversion CHD sin ventana de consola + barra de progreso; Dreamcast fuerza OpenGL (ya no se cierra al jugar).",
-  "pub_date": "2026-09-27T00:11:22Z",
+  "version": "0.1.19",
+  "notes": "Parche 0.1.19: corrige cierre al jugar Dreamcast (VFS libretro mentia v3 sin callbacks; Flycast caia con GPF). BIOS DC en system/.",
+  "pub_date": "2026-09-27T00:23:34Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSFBWWVpvandLQzc1UE81STAvYWpUVHF6b3VTRjJPUGFXd0M2dWFSZDVvWlU1MXdkbnNqSWcyOXBFbitLUmdWWDFsY3RyY3pGUmN1TDJlTSszN1M3dVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDY3ODE5CWZpbGU6YWxsRW11XzAuMS4xOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE4Ck1sbGR5YXhWQ0JLd3ZITGh5Qk04L0NZQXNvNWZ3cVJmdk5Oakc3VXliUHJpcUd5cDFGWHJjZkJTNTdZclZ3MXp0dktKU1pVRGJHbDRaeXkvSTA0MkFnPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.18/allEmu_0.1.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEpZVk5WY1QzbEFReHFpYmx4RkRSK3IrOVRaeHhFMTdBbzh3TElnNDVLVWlLcGZSUEg2WWt2eFdHSG9HSlpGdEVaRlVIc1VJc3lFbEg4MWhYdW5LS2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDY4NjAxCWZpbGU6YWxsRW11XzAuMS4xOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE5CkR2M0tpb3k3M1F3SE40eHRtcXZJc25wODE4WjUvVkVkU0JCUmRBcGZmMHZCZWpCYjdLNUlaQ1R4VEl2RXBiM0Fja3NHL0d0TlB5dERPbkVBckdDdUJ3PT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.19/allEmu_0.1.19_x64-setup.exe"
     }
   }
 }
