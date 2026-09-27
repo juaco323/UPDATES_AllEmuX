@@ -1,11 +1,11 @@
 {
-  "version": "0.1.19",
-  "notes": "Parche 0.1.19: corrige cierre al jugar Dreamcast (VFS libretro mentia v3 sin callbacks; Flycast caia con GPF). BIOS DC en system/.",
-  "pub_date": "2026-09-27T00:23:34Z",
+  "version": "0.1.20",
+  "notes": "Parche 0.1.20: al quitar una ROM Dreamcast se borran juntos .chd, .cue y pistas .bin (antes habia que quitar dos veces).",
+  "pub_date": "2026-09-27T00:40:44Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEpZVk5WY1QzbEFReHFpYmx4RkRSK3IrOVRaeHhFMTdBbzh3TElnNDVLVWlLcGZSUEg2WWt2eFdHSG9HSlpGdEVaRlVIc1VJc3lFbEg4MWhYdW5LS2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDY4NjAxCWZpbGU6YWxsRW11XzAuMS4xOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE5CkR2M0tpb3k3M1F3SE40eHRtcXZJc25wODE4WjUvVkVkU0JCUmRBcGZmMHZCZWpCYjdLNUlaQ1R4VEl2RXBiM0Fja3NHL0d0TlB5dERPbkVBckdDdUJ3PT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.19/allEmu_0.1.19_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEVGWndJVHNvam5mVHRuZmppL2liYTRvWmRSL3pHNTJxNzBIZFEvSFEvU0ZuYkY1ZnJLc3NpLzh5cFJyenNLa3UzcW9YMmtlTm8xL21tb2RqeTlyK0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDY5NDcxCWZpbGU6YWxsRW11XzAuMS4yMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIwCmtSbXE2V2RNS29EY0tFN29XYThlN3AxZmtaVHdBQjZKd2JiUjZXTXBra3JCQkpmdEZ3aWl0TjRKY1paRVBnYVhMRFJUTjlna1BvRlRFMFZLYnBqOUNRPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.20/allEmu_0.1.20_x64-setup.exe"
     }
   }
 }
