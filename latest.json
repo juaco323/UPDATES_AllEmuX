@@ -1,11 +1,11 @@
 {
-  "version": "0.1.17",
-  "notes": "Parche 0.1.17: chdman va embebido en el instalador (sidecar); Dreamcast Redump se convierte a CHD sin instalar nada a mano.",
-  "pub_date": "2026-09-26T23:38:19Z",
+  "version": "0.1.18",
+  "notes": "Parche 0.1.18: conversion CHD sin ventana de consola + barra de progreso; Dreamcast fuerza OpenGL (ya no se cierra al jugar).",
+  "pub_date": "2026-09-27T00:11:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEhWeWhTclVIUk1IYnR3M3p5NVlZQWtOQ1FzVExQM3g3aFc3ZWd0QXFYS3g0Nm4xYytya0h4K1RoM1hvWU5abllZY0lpNUFuNldkV1F4TkJmMnN1a3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDY1NzU2CWZpbGU6YWxsRW11XzAuMS4xN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE3Ci9XRjFvUUpNNU9Ndjk1NGJwQ3NPdHg3L2Jkd05TWWUrcktkS0o4ZS9SeXF6dHpldHE5K0oyQUtMVlQyUlYvRWNnd2RIeEJzakNvNjhYdXhSd0tHSUJBPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.17/allEmu_0.1.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSFBWWVpvandLQzc1UE81STAvYWpUVHF6b3VTRjJPUGFXd0M2dWFSZDVvWlU1MXdkbnNqSWcyOXBFbitLUmdWWDFsY3RyY3pGUmN1TDJlTSszN1M3dVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDY3ODE5CWZpbGU6YWxsRW11XzAuMS4xOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjE4Ck1sbGR5YXhWQ0JLd3ZITGh5Qk04L0NZQXNvNWZ3cVJmdk5Oakc3VXliUHJpcUd5cDFGWHJjZkJTNTdZclZ3MXp0dktKU1pVRGJHbDRaeXkvSTA0MkFnPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.18/allEmu_0.1.18_x64-setup.exe"
     }
   }
 }
