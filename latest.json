@@ -1,11 +1,11 @@
 {
-  "version": "0.1.20",
-  "notes": "Parche 0.1.20: al quitar una ROM Dreamcast se borran juntos .chd, .cue y pistas .bin (antes habia que quitar dos veces).",
-  "pub_date": "2026-09-27T00:40:44Z",
+  "version": "0.1.21",
+  "notes": "Parche 0.1.21: Dreamcast - el teclado/mando no respondian porque Flycast no creaba el controlador Maple (faltaba set_controller JOYPAD).",
+  "pub_date": "2026-09-27T01:59:10Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEVGWndJVHNvam5mVHRuZmppL2liYTRvWmRSL3pHNTJxNzBIZFEvSFEvU0ZuYkY1ZnJLc3NpLzh5cFJyenNLa3UzcW9YMmtlTm8xL21tb2RqeTlyK0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDY5NDcxCWZpbGU6YWxsRW11XzAuMS4yMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIwCmtSbXE2V2RNS29EY0tFN29XYThlN3AxZmtaVHdBQjZKd2JiUjZXTXBra3JCQkpmdEZ3aWl0TjRKY1paRVBnYVhMRFJUTjlna1BvRlRFMFZLYnBqOUNRPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.20/allEmu_0.1.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEpZNm02YVBPUnpsd1lOM2ZYSmx3aCtiV1V4R3VkSHpjZ0RtRXZ2TUdhWGY5alZZT1Exc2tYUFp4Wk5TRURpMjJVTk1WWDNaeVBvaUJ6WFRST0I2QUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDczNTUyCWZpbGU6YWxsRW11XzAuMS4yMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjIxCndtbngyRnF1VW54Q1ZIRlV2ZXhtQUV2ODQxWEFWQkZ6enJSdUtBMEdtbUNmVWZPNXBnY2twZkFXS2poeHlKdmt5M1dWV1JXcVV0dEZRWFFMVm1ESENBPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.21/allEmu_0.1.21_x64-setup.exe"
     }
   }
 }
