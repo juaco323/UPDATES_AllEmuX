@@ -1,11 +1,11 @@
 {
-  "version": "0.1.27",
-  "notes": "Parche 0.1.27: N64 — Vulkan + ParaLLEl-RDP (evita cuelgue de GLideN64/OpenGL con WebView2); context_reset diferido y start_game con timeout. Kirby/Mario deberían arrancar.",
-  "pub_date": "2026-09-28T02:15:00Z",
+  "version": "0.1.28",
+  "notes": "Parche 0.1.28: N64 — ya no exige BIOS (las carts no la necesitan). Antes start_game devolvía -4 en silencio y la UI se quedaba en «Iniciando…».",
+  "pub_date": "2026-09-28T03:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEhGQlMvR0ZveGcvejRLandkNnJDS25pd2swZCtQYUNHYUNMamF0ZUN5RnNqOGJaNElTKy9MUGR6TnR1TGlGaWRTcWR1T0VoUTZnUEp4ZTNhSVVWaWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTYxNDEwCWZpbGU6YWxsRW11XzAuMS4yN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI3CjNEU3BUMmZYditJaG9iT1p1V0V3dmsyNGhnS3lCMzRmMFR0WlVqdHE1ZG9SSUZhSEJTOHRTdlhtZkl3akpabEloT21UczBOaXZweGhBeWJSc21pOUJnPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.27/allEmu_0.1.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEtnOTBubTJDeCtzdWdBbWZRWUdLTVNPWStoRnZjMUhFdCtCLzhLZlp3TnJvV1NMeXJOZkZUWTZyZ2U3Ti9JSThQcUZqL1JDQWRlenZqbHFKam16YVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTY3NjU1CWZpbGU6YWxsRW11XzAuMS4yOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI4ClBkeG1jSSsraXB3SGxTRkpGeXRwbVY5ZW55N0NuZDJiVE1VK2IyUzRrV1l0MW9sZzN6clRhYWM4Zmx0RERVcjlTdmZHYmRWTldiVlhvSXdDcXBpNkR3PT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.28/allEmu_0.1.28_x64-setup.exe"
     }
   }
 }
