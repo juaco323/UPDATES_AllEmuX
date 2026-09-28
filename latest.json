@@ -1,11 +1,11 @@
 {
-  "version": "0.1.25",
-  "notes": "Parche 0.1.25: al instalar un núcleo ya no pregunta si querés agregar juegos (solo BIOS si aplica).",
-  "pub_date": "2026-09-28T01:05:00Z",
+  "version": "0.1.26",
+  "notes": "Parche 0.1.26: N64 — arranque estable (OpenGL forzado, warmup de frames, opciones GLideN64 Sync/sin MSAA) y overlay de juego sin quedar colgado en el menú.",
+  "pub_date": "2026-09-28T02:20:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEhiYUxyOGd6TjZDOTkwSU4xQVVJUjB0VUJXNE1zWmZzT2JSMGV0TlhXVVpQYmhoYWRGUG03dlFiS0piR2JuK0g0YlYrOC93Q05iSGtqWjFybEZWYkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTUzODc1CWZpbGU6YWxsRW11XzAuMS4yNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI1CkhiVEFvT1ZBU1J4dkpGZmxaM09OWldzQ1BvYjZsOWZXOCtiZEdPR3pZSEFybUxLMUNZS09mUGIzRTczSTQvT3NuZE51dUhYaFNpVGJhaGIrbk1QOEJnPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.25/allEmu_0.1.25_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEJxb1lQWkZxZjhqV1NJenlNNEZ6SUttVTVlblYwMTF3MzY1dTFkaWo2dUtFVDRmbldzeDJPRXc4eXRaV2NXTnNJbnJuK2FpRDhCU3gwczBkVGRLTmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTYwNDU2CWZpbGU6YWxsRW11XzAuMS4yNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI2ClcxNWVSeWxJZGdiZWtETWxOZllhL2s3NjljWXdDRzkvZnJyNnBlbnFjSjBUaWVvR0xEQWs0ZEcxZ2RZZW1ZVFhrNXpyOXZKNVRSUnh6bVdiNVIzYkJBPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.26/allEmu_0.1.26_x64-setup.exe"
     }
   }
 }
