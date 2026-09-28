@@ -1,11 +1,11 @@
 {
-  "version": "0.1.24",
-  "notes": "Parche 0.1.24: Nintendo 64 (Mupen64Plus-Next) — consola, opciones GLideN64, vídeo OpenGL, keybinds, foto de mando y carátulas. Core: cores/n64/mupen64plus_next_libretro.dll (no incluido en el parche).",
-  "pub_date": "2026-09-28T00:15:00Z",
+  "version": "0.1.25",
+  "notes": "Parche 0.1.25: al instalar un núcleo ya no pregunta si querés agregar juegos (solo BIOS si aplica).",
+  "pub_date": "2026-09-28T01:05:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEdEOHVwT3Z5WWc4TkJYd29lTGdkU0c3cDlpMTR1ZTY4R3cxMlpvalVQS21nQXZUQVlvTlVGaXhqT0hFT2R4NS9SMUZmM2U2RWo1bTlVZXRzZ0xJZmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTUwNjk1CWZpbGU6YWxsRW11XzAuMS4yNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI0Ci9RVTdTK3BoSG5tdDFuY05acFdsMFRtbHNLMSt6WUhrWjdVREJtSmlKSWtjdkZhd1k5UmpZT3NSWGJ2N3F1NlZyYzUzWWF5NzNaTTI0UlMwRG90TUFBPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.24/allEmu_0.1.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEhiYUxyOGd6TjZDOTkwSU4xQVVJUjB0VUJXNE1zWmZzT2JSMGV0TlhXVVpQYmhoYWRGUG03dlFiS0piR2JuK0g0YlYrOC93Q05iSGtqWjFybEZWYkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTUzODc1CWZpbGU6YWxsRW11XzAuMS4yNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI1CkhiVEFvT1ZBU1J4dkpGZmxaM09OWldzQ1BvYjZsOWZXOCtiZEdPR3pZSEFybUxLMUNZS09mUGIzRTczSTQvT3NuZE51dUhYaFNpVGJhaGIrbk1QOEJnPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.25/allEmu_0.1.25_x64-setup.exe"
     }
   }
 }
