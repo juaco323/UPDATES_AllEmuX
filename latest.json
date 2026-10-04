@@ -1,11 +1,11 @@
 {
-  "version": "0.1.28",
-  "notes": "Parche 0.1.28: N64 — ya no exige BIOS (las carts no la necesitan). Antes start_game devolvía -4 en silencio y la UI se quedaba en «Iniciando…».",
-  "pub_date": "2026-09-28T03:55:00Z",
+  "version": "0.1.29",
+  "notes": "Parche 0.1.29: logo allEmu en UI, favicon e iconos de instalador/ventana.",
+  "pub_date": "2026-10-04T23:32:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEtnOTBubTJDeCtzdWdBbWZRWUdLTVNPWStoRnZjMUhFdCtCLzhLZlp3TnJvV1NMeXJOZkZUWTZyZ2U3Ti9JSThQcUZqL1JDQWRlenZqbHFKam16YVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTY3NjU1CWZpbGU6YWxsRW11XzAuMS4yOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI4ClBkeG1jSSsraXB3SGxTRkpGeXRwbVY5ZW55N0NuZDJiVE1VK2IyUzRrV1l0MW9sZzN6clRhYWM4Zmx0RERVcjlTdmZHYmRWTldiVlhvSXdDcXBpNkR3PT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.28/allEmu_0.1.28_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSExnVkMxRzFvbEUrRzdUY2c2eWoyRHhZWldhLzREeWlmTnowdUlFci81VkxrNitkM3IxSlVkcm12SFZFaDFrMXBDa1hoaHJ1dTRJV3NYTU1IWCs2M0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTU2MDY3CWZpbGU6YWxsRW11XzAuMS4yOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI5CkVSTDUvTlNVYUk0cnhmcjJvdmhaaDdCdnJJaTY5U3FnY0o2anVYalJmUFhubjJjdUxNeUhCcmF1TkdWRVZZakVodHFuVGorcUZkT0NDL3lTQmJ6MkFnPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.29/allEmu_0.1.29_x64-setup.exe"
     }
   }
 }
