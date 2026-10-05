@@ -1,11 +1,11 @@
 {
-  "version": "0.1.29",
-  "notes": "Parche 0.1.29: logo allEmu en UI, favicon e iconos de instalador/ventana.",
-  "pub_date": "2026-10-04T23:32:23Z",
+  "version": "0.1.30",
+  "notes": "Parche 0.1.30: corrige el icono del acceso directo en Explorer tras updates (Windows Search ya lo mostraba bien).",
+  "pub_date": "2026-10-05T00:20:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSExnVkMxRzFvbEUrRzdUY2c2eWoyRHhZWldhLzREeWlmTnowdUlFci81VkxrNitkM3IxSlVkcm12SFZFaDFrMXBDa1hoaHJ1dTRJV3NYTU1IWCs2M0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTU2MDY3CWZpbGU6YWxsRW11XzAuMS4yOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjI5CkVSTDUvTlNVYUk0cnhmcjJvdmhaaDdCdnJJaTY5U3FnY0o2anVYalJmUFhubjJjdUxNeUhCcmF1TkdWRVZZakVodHFuVGorcUZkT0NDL3lTQmJ6MkFnPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.29/allEmu_0.1.29_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEpCb281bDFseHJVb3lUc3NiNTFSU0QxbCtUTFNtQ3IvLzlzV0JPOURpUlcxN2g1Z29QeUtSdDRMeUVkbStOY3hTSWh2SG9LTHIzSTBIMzBSOVJ6WEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTU5NTg2CWZpbGU6YWxsRW11XzAuMS4zMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMwCmJwcUp1WFVLTjU2cWhoL0xuNVJOaXhxdnE3Q1NPWnNSOFhkNEQzdzgzRDBKQkVYZjBhK2hEMm1ES2FCVmk4TEF3Yi84bFF3cCtTRUsvV3hwc2p1cUJ3PT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.30/allEmu_0.1.30_x64-setup.exe"
     }
   }
 }
