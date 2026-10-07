@@ -1,11 +1,11 @@
 {
-  "version": "0.1.30",
-  "notes": "Parche 0.1.30: corrige el icono del acceso directo en Explorer tras updates (Windows Search ya lo mostraba bien).",
-  "pub_date": "2026-10-05T00:20:03Z",
+  "version": "0.1.31",
+  "notes": "Parche 0.1.31: soporte para Neo Geo, MAME, PSP, Wii y GameCube; slider de curvatura CRT en tiempo real; multijugador hasta 4 jugadores; reemplazo de carátulas personalizadas y conexión a repositorios remotos de carátulas.",
+  "pub_date": "2026-10-07T03:44:48Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEpCb281bDFseHJVb3lUc3NiNTFSU0QxbCtUTFNtQ3IvLzlzV0JPOURpUlcxN2g1Z29QeUtSdDRMeUVkbStOY3hTSWh2SG9LTHIzSTBIMzBSOVJ6WEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTU5NTg2CWZpbGU6YWxsRW11XzAuMS4zMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMwCmJwcUp1WFVLTjU2cWhoL0xuNVJOaXhxdnE3Q1NPWnNSOFhkNEQzdzgzRDBKQkVYZjBhK2hEMm1ES2FCVmk4TEF3Yi84bFF3cCtTRUsvV3hwc2p1cUJ3PT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.30/allEmu_0.1.30_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEZYRW1USlcwc0o3anY0SG8ySG81aVF5M0txZ2ppeE5xdGJxV05zeDNEb3lJMlBmZTNDYmdubVpoOGJqb0duLzQzVDBjVHpkTmxkbTFrbm1nOTJUSFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzQ0NjIxCWZpbGU6YWxsRW11XzAuMS4zMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMxCnNGYi84MEhPVUNvbklwMnNsZGtNSWpCRXFYVk5zSWxBL0tZVjlpTUN1NStRcWVhTTN6L0xZajRGM0hxaDRYcVNQUTR0amc0TGNMSmNrdVBjdjB2bEFnPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.31/allEmu_0.1.31_x64-setup.exe"
     }
   }
 }
