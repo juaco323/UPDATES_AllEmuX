@@ -1,11 +1,11 @@
 {
-  "version": "0.1.35",
-  "notes": "Parche 0.1.35: Soporte para asignación y ajuste independiente de controles y teclado para cada jugador (Jugador 1, 2, 3 y 4) tanto en el menú de pausa como en los ajustes de mandos.",
-  "pub_date": "2026-10-07T06:33:00Z",
+  "version": "0.1.36",
+  "notes": "Parche 0.1.36: Habilitación de puertos de control 1..4 en el núcleo libretro y diferenciación de Jugador 1 y Jugador 2 (teclado como Jugador 1 y mando como Jugador 2, atajo in-game F2, atajos en mando Select+R1 y R1+Start, y selector de jugador en menú de pausa y ajustes de mandos).",
+  "pub_date": "2026-10-07T07:12:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEtuNUYxQkZROWU1T2NkZmduTlVMQ1A1MVZqaHVRR3FZY3hKVFlxR1JYZUgzZnVFR3R6M1BCNmRYbE1OUnNVU0trUkM2czlHN2MwM2JpQzlmODB0NVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzU0NzIyCWZpbGU6YWxsRW11XzAuMS4zNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM1CkV4YzM3QkhOTEthYnFCV21wWkpCRW1laFJoaGp2SEdHMGtHRDNEYy9sTGlveS9FanIyWWo3b3Ryc1pLcnBlLzM0ejJhZHRhVkhUc1BnVk5CV1RBMkN3PT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.35/allEmu_0.1.35_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSERjL2RkUml6aFFicXpHS3hqZGhMNnhsa3ZzSk9kUlQ5dlo1VFBVdmx4U3lzSHh1cFRITSs2emNZQ3RVb0psSVkyM0lDdjZiaWtublVHL3Byck5jcUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzU3MTI1CWZpbGU6YWxsRW11XzAuMS4zNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM2CjUwSThUemUvem03Und5Y3NnMTBHUUZxN2ErYml5ZzlIODRTMklZSHlHRHd5SUdhSHVnVVJ1MFV1aVVTT2ZnMktzYkcveEpLdFdGVllFMUMyWjNoVUFRPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.36/allEmu_0.1.36_x64-setup.exe"
     }
   }
 }
