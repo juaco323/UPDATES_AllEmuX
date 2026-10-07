@@ -1,11 +1,11 @@
 {
-  "version": "0.1.34",
-  "notes": "Parche 0.1.34: Nuevas imágenes de mandos y mapeo interactivo (PSP, Neo Geo, MAME, Wii, GameCube); slider horizontal de curvatura CRT con vista previa en tiempo real en el menú de pausa; corrección de cierre de partida inmediata sin trabas.",
-  "pub_date": "2026-10-07T06:00:00Z",
+  "version": "0.1.35",
+  "notes": "Parche 0.1.35: Soporte para asignación y ajuste independiente de controles y teclado para cada jugador (Jugador 1, 2, 3 y 4) tanto en el menú de pausa como en los ajustes de mandos.",
+  "pub_date": "2026-10-07T06:33:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSENuc0lzMGNwVnZGZVlLbUdUSktDbWxDcGtrNXB0Tmw5UGZ5bjd4MW1OZUlvNmpvVWJTNWdYN3lhaVZWUnhjdzF6MzFWUTVqeWFaNTE4cmgvdTU0SmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzUyNzQ0CWZpbGU6YWxsRW11XzAuMS4zNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM0Ck5iaGRYWUQrWEpRTUY2cmFDWkV4SGtQVXFoWjNyd1NUZk9Ld0NoalpBV25FS21PT0U2d09LTzB2ajJYRnd6U1RScnpVc2tza3BwaHp1RUkwbHllOEF3PT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.34/allEmu_0.1.34_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEtuNUYxQkZROWU1T2NkZmduTlVMQ1A1MVZqaHVRR3FZY3hKVFlxR1JYZUgzZnVFR3R6M1BCNmRYbE1OUnNVU0trUkM2czlHN2MwM2JpQzlmODB0NVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzU0NzIyCWZpbGU6YWxsRW11XzAuMS4zNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM1CkV4YzM3QkhOTEthYnFCV21wWkpCRW1laFJoaGp2SEdHMGtHRDNEYy9sTGlveS9FanIyWWo3b3Ryc1pLcnBlLzM0ejJhZHRhVkhUc1BnVk5CV1RBMkN3PT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.35/allEmu_0.1.35_x64-setup.exe"
     }
   }
 }
