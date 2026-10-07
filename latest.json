@@ -1,11 +1,11 @@
 {
-  "version": "0.1.31",
-  "notes": "Parche 0.1.31: soporte para Neo Geo, MAME, PSP, Wii y GameCube; slider de curvatura CRT en tiempo real; multijugador hasta 4 jugadores; reemplazo de carátulas personalizadas y conexión a repositorios remotos de carátulas.",
-  "pub_date": "2026-10-07T03:44:48Z",
+  "version": "0.1.32",
+  "notes": "Parche 0.1.32: soporte para Neo Geo, MAME, PSP, Wii y GameCube; slider de curvatura CRT en tiempo real; multijugador 4 jugadores; carátulas bajo demanda vía repos remotos (SNES, NES, PS2, PS1, DC, MAME) sin packs embebidos pesados.",
+  "pub_date": "2026-10-07T04:52:45Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEZYRW1USlcwc0o3anY0SG8ySG81aVF5M0txZ2ppeE5xdGJxV05zeDNEb3lJMlBmZTNDYmdubVpoOGJqb0duLzQzVDBjVHpkTmxkbTFrbm1nOTJUSFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzQ0NjIxCWZpbGU6YWxsRW11XzAuMS4zMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMxCnNGYi84MEhPVUNvbklwMnNsZGtNSWpCRXFYVk5zSWxBL0tZVjlpTUN1NStRcWVhTTN6L0xZajRGM0hxaDRYcVNQUTR0amc0TGNMSmNrdVBjdjB2bEFnPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.31/allEmu_0.1.31_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEN2bFl0MThhbk41Skx4dWNzaUliNkg3QzBNRGFiZHpINGk2eGZQZ1djU2RueHZDdXdIYlVoL00rcmFMR0tTdVZEaGN1TlB4dFZNb1J4Yk44RmlEV0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzQ4NzQzCWZpbGU6YWxsRW11XzAuMS4zMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMyCkxFNFBVOEQralJpTVpnUmNsVTQzeEx6Mzg0UzFqRHJpeUpweGU4YXFiV1RUN2RDOGNnMHpWK0JURlllNHphd1JiK2UvU3l4bFhqbDNwd3RSYXl3UUJnPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.32/allEmu_0.1.32_x64-setup.exe"
     }
   }
 }
