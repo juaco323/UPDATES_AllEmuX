@@ -1,11 +1,11 @@
 {
-  "version": "0.1.33",
-  "notes": "Parche 0.1.33: incluye núcleos libretro de código abierto embebidos (MAME, PSP, Wii, GameCube, Neo Geo, Dreamcast, etc.); carátulas bajo demanda vía repos remotos; slider CRT en tiempo real y 4 jugadores.",
-  "pub_date": "2026-10-07T05:07:36Z",
+  "version": "0.1.34",
+  "notes": "Parche 0.1.34: Nuevas imágenes de mandos y mapeo interactivo (PSP, Neo Geo, MAME, Wii, GameCube); slider horizontal de curvatura CRT con vista previa en tiempo real en el menú de pausa; corrección de cierre de partida inmediata sin trabas.",
+  "pub_date": "2026-10-07T06:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSE9vYlpobjJvbGNPUjN0UEFCT21ZQVNkdXg1aDdGZ1VZamMzOWZtMUR6N1VwYUVzRE9XUmJORnppaDlVKytPN2pRd3VDRjdQcXFDRnlkVFpRSlVOc3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzQ5NjI2CWZpbGU6YWxsRW11XzAuMS4zM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjMzClN4R1QrOEpPWWFGc2IwbWttMFdyODFOTWRGa1pHL3BvZTN5aExhckdpZUk5Z3RtWDB1R1M3dXZUaXYxRkdtc3VLZ2dtNUJmZy9iUHpNNEhaakw5cEJBPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.33/allEmu_0.1.33_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSENuc0lzMGNwVnZGZVlLbUdUSktDbWxDcGtrNXB0Tmw5UGZ5bjd4MW1OZUlvNmpvVWJTNWdYN3lhaVZWUnhjdzF6MzFWUTVqeWFaNTE4cmgvdTU0SmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzUyNzQ0CWZpbGU6YWxsRW11XzAuMS4zNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM0Ck5iaGRYWUQrWEpRTUY2cmFDWkV4SGtQVXFoWjNyd1NUZk9Ld0NoalpBV25FS21PT0U2d09LTzB2ajJYRnd6U1RScnpVc2tza3BwaHp1RUkwbHllOEF3PT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.34/allEmu_0.1.34_x64-setup.exe"
     }
   }
 }
