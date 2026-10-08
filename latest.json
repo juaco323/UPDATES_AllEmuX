@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "notes": "Versión 0.2.1: corrige el jugador 2 (los dispositivos se asignan solos al detectar otro jugador; F2 abre «Jugadores y dispositivos»); el panel de asignación de teclas ya no tiembla ni muestra scrollbar y el mando no navega la interfaz ahí; botón «Calibrar palanca» para mandos con ejes distintos y anillo de zona muerta; la versión de la esquina inferior izquierda ahora muestra la versión real.",
-  "pub_date": "2026-10-08T05:42:17Z",
+  "version": "0.2.2",
+  "notes": "Versión 0.2.2: GameCube/Wii más fluido (shaders compilados en segundo plano sin congelar el juego, menos datos enviados a la ventana, mayor prioridad del motor y envío de cuadros solo cuando hay imagen nueva). Nuevo diagnóstico opcional: iniciar con ALLEMU_PERF=1 muestra el coste real del motor por segundo.",
+  "pub_date": "2026-10-08T07:30:05Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSElwQ2JQZlJVUXo5b0U2TkpTZjFUVEtMY1dyM243THRkai9FTENCc2V6M0l4SHF6Q1RoMjE3cmVXQ2E4anRIb2VhbUoveTB0bmUvSGwwRkdBcms0dkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDM4MTI1CWZpbGU6YWxsRW11XzAuMi4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMQpVR2JsOWhIeUNkTXJSd3hLNFdvRndsQ2tPbmRKRjJVUGpzNXFjS0ZIMkdvU1lEQyswSmNHMXZVQnZMMmNQaC93MHVhaGhoR0VYY3k1R2c2Wkt6QTdEdz09Cg==",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.1/allEmu_0.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEZYLzk3RXkxdlVHSFVhYm8zVWdidnpCZjZFK3ZRb2s4Wjk4UEVQUnN4SEVmdHh5WTI1ZmlpTlpXZEZWUktjaUVmWlNkUXBwamJaQ2pEVWYvQkhPYWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDQ0NTk2CWZpbGU6YWxsRW11XzAuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMgpNV1hzL3F2Yk8wZDZoREsyYW9PanJNblFhS01nUlg0N0xvbFVHOWF2TkgzWnBSWlNSekZRVHNhVUE0YlFwdGJjb0NVRmU5aS9nRS9tQW1teXY0ZXNBQT09Cg==",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.2/allEmu_0.2.2_x64-setup.exe"
     }
   }
 }
