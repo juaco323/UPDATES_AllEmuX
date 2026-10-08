@@ -1,11 +1,11 @@
 {
-  "version": "0.2.4",
-  "notes": "Versión 0.2.4: revisión completa. La interfaz ya no se congela al iniciar juegos o bajar carátulas; partidas separadas por consola (migración automática); autoguardado sin tirones; BIOS de PS1/Dreamcast detectadas correctamente; carátulas sin necesitar git y sin ventanas negras; cambio de disco (.m3u) y vibración del mando; CRT y modo Entero corregidos; se respeta el volumen 0 %.",
-  "pub_date": "2026-10-08T16:15:46Z",
+  "version": "0.2.5",
+  "notes": "Versión 0.2.5: multijugador automático. Cada mando que se conecta se asigna solo al siguiente jugador libre de la consola y un aviso arriba a la derecha indica quién se conectó o desconectó; las teclas de J2–J4 se activan al usarlas. Un mando extra ya no pausa el juego y se quitaron los atajos que movían el mando a J2 sin querer. Menús navegables con cualquier mando, una tecla ya no queda en dos jugadores, nuevas Opciones del núcleo en el menú de pausa, multitap de PS1 (4 jugadores) en Vídeo y cuadros más fluidos.",
+  "pub_date": "2026-10-08T16:39:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSERwd1Njenl6U2dYdzJTZGdKZzlmbmV0b2w1TDYrZENUMkh5bG9wYnJRTDJSR09EWC9tUUNYUGpKTWtXek9LQk5NTTdyV3I1YzlOR2h2WUlYWHgwcmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDc2MTEzCWZpbGU6YWxsRW11XzAuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNAo0NlpjaFd5QVNYZWRhVEErNktWcVVrRFNhOTdqbkVZNUdtZWJNaFpmbTlKVDlnRUdIbm83TmZqTFhQeW1QanBpWGZKRW51dU9qbElsZjE4TDNndmVBZz09Cg==",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.4/allEmu_0.2.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEpBY3JadXNPYTVuZ3hna2VnQVluRGoyYkgyNElzWW1uOW9MUHdMdGZlbXNKVUdsTFBUNTFUa3pCM1NEVHM2ZEJ3ZFJFSFdGaTdETHJ0VXlJeVdVckFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDc3NTc5CWZpbGU6YWxsRW11XzAuMi41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNQo3K3J3YWxVeldZZ2NWcFFqRGkzV1VxUDZJM2hKV1R3VUZlY2hKOEV4WkZCOXUrV2FTRldSUUtxZ1FsdXZheUgrbkJGbnVnZHVKUW15azN3V1V5MUhCUT09Cg==",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.5/allEmu_0.2.5_x64-setup.exe"
     }
   }
 }
