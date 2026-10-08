@@ -1,11 +1,11 @@
 {
-  "version": "0.1.36",
-  "notes": "Parche 0.1.36: Habilitación de puertos de control 1..4 en el núcleo libretro y diferenciación de Jugador 1 y Jugador 2 (teclado como Jugador 1 y mando como Jugador 2, atajo in-game F2, atajos en mando Select+R1 y R1+Start, y selector de jugador en menú de pausa y ajustes de mandos).",
-  "pub_date": "2026-10-07T07:12:00Z",
+  "version": "0.2.0",
+  "notes": "Versión 0.2.0 (nuevas funciones): selección de dispositivos por jugador con detección automática de multijugador; nuevo configurador de mandos (perfiles, ejes/rango/punto muerto, foto del mando reaccionando en vivo); asistente de vídeo según el hardware (CPU/RAM/GPU/portátil); GameCube/Wii con audio, input y Vulkan corregidos (incluye carpeta Sys de Dolphin); PSP con opciones reales; PS2 con segundo DualShock analógico; PS1 con multitap opcional; teclas por defecto sin colisiones entre jugadores.",
+  "pub_date": "2026-10-08T05:07:07Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSERjL2RkUml6aFFicXpHS3hqZGhMNnhsa3ZzSk9kUlQ5dlo1VFBVdmx4U3lzSHh1cFRITSs2emNZQ3RVb0psSVkyM0lDdjZiaWtublVHL3Byck5jcUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzU3MTI1CWZpbGU6YWxsRW11XzAuMS4zNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjM2CjUwSThUemUvem03Und5Y3NnMTBHUUZxN2ErYml5ZzlIODRTMklZSHlHRHd5SUdhSHVnVVJ1MFV1aVVTT2ZnMktzYkcveEpLdFdGVllFMUMyWjNoVUFRPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.1.36/allEmu_0.1.36_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSE1tQjQvQTB1QlJ3aHJ1ZnI2QWdjalJ5ZlN0RDZVWjg5ekI1ajU2YjRsS3ZIUzlWS2VXQnBqWW9SNFFBNzg2dmpUTHNvMzRQSnZKdmJJcUMydmZtY0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDM1OTk5CWZpbGU6YWxsRW11XzAuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMApyOHVsYVVmUERoOWxDRzZPOG91WWtHcFEwSk1pSXBDUHFoUHByMnhwQnQ3VUxFZTVldVlJdVFpSVplRjlBdENKTENEQjlqTERVTkZkSmk3eG9zRVFEdz09Cg==",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.0/allEmu_0.2.0_x64-setup.exe"
     }
   }
 }
