@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
-  "notes": "Versión 0.2.3: la imagen del juego llega más fluida a la ventana en perfiles Medios y Altos (cuadros pedidos y pintados en bucles independientes, sin copia extra del cuadro). Mejora GameCube/Wii y PS2 a mayor resolución.",
-  "pub_date": "2026-10-08T07:41:24Z",
+  "version": "0.2.4",
+  "notes": "Versión 0.2.4: revisión completa. La interfaz ya no se congela al iniciar juegos o bajar carátulas; partidas separadas por consola (migración automática); autoguardado sin tirones; BIOS de PS1/Dreamcast detectadas correctamente; carátulas sin necesitar git y sin ventanas negras; cambio de disco (.m3u) y vibración del mando; CRT y modo Entero corregidos; se respeta el volumen 0 %.",
+  "pub_date": "2026-10-08T16:15:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEY1cFV3ZlZvYlpFQjlCNWxsVUxPMkFHaDREbXY5RTZDdTY1TXRlQ1h0S09IUk9HbGxRV3VuQUg2ZlFDVmkveGNYWUtPaG1qa01wdTdmTmpMME5MVlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDQ1MjcyCWZpbGU6YWxsRW11XzAuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMwpCWXlYMkFocXRoVCtnWUNSQldQTEN4UnV1VXJ0OTk3YzZKek0wYzJtSkdhZXQySlNKOXhsejNSVlN4WXo2NzkvNDBHVEZDMHpvQ214ZFJYV2V2WVNCdz09Cg==",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.3/allEmu_0.2.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSERwd1Njenl6U2dYdzJTZGdKZzlmbmV0b2w1TDYrZENUMkh5bG9wYnJRTDJSR09EWC9tUUNYUGpKTWtXek9LQk5NTTdyV3I1YzlOR2h2WUlYWHgwcmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDc2MTEzCWZpbGU6YWxsRW11XzAuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNAo0NlpjaFd5QVNYZWRhVEErNktWcVVrRFNhOTdqbkVZNUdtZWJNaFpmbTlKVDlnRUdIbm83TmZqTFhQeW1QanBpWGZKRW51dU9qbElsZjE4TDNndmVBZz09Cg==",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.4/allEmu_0.2.4_x64-setup.exe"
     }
   }
 }
