@@ -1,11 +1,11 @@
 {
-  "version": "0.2.2",
-  "notes": "Versión 0.2.2: GameCube/Wii más fluido (shaders compilados en segundo plano sin congelar el juego, menos datos enviados a la ventana, mayor prioridad del motor y envío de cuadros solo cuando hay imagen nueva). Nuevo diagnóstico opcional: iniciar con ALLEMU_PERF=1 muestra el coste real del motor por segundo.",
-  "pub_date": "2026-10-08T07:30:05Z",
+  "version": "0.2.3",
+  "notes": "Versión 0.2.3: la imagen del juego llega más fluida a la ventana en perfiles Medios y Altos (cuadros pedidos y pintados en bucles independientes, sin copia extra del cuadro). Mejora GameCube/Wii y PS2 a mayor resolución.",
+  "pub_date": "2026-10-08T07:41:24Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEZYLzk3RXkxdlVHSFVhYm8zVWdidnpCZjZFK3ZRb2s4Wjk4UEVQUnN4SEVmdHh5WTI1ZmlpTlpXZEZWUktjaUVmWlNkUXBwamJaQ2pEVWYvQkhPYWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDQ0NTk2CWZpbGU6YWxsRW11XzAuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMgpNV1hzL3F2Yk8wZDZoREsyYW9PanJNblFhS01nUlg0N0xvbFVHOWF2TkgzWnBSWlNSekZRVHNhVUE0YlFwdGJjb0NVRmU5aS9nRS9tQW1teXY0ZXNBQT09Cg==",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.2/allEmu_0.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEY1cFV3ZlZvYlpFQjlCNWxsVUxPMkFHaDREbXY5RTZDdTY1TXRlQ1h0S09IUk9HbGxRV3VuQUg2ZlFDVmkveGNYWUtPaG1qa01wdTdmTmpMME5MVlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDQ1MjcyCWZpbGU6YWxsRW11XzAuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMwpCWXlYMkFocXRoVCtnWUNSQldQTEN4UnV1VXJ0OTk3YzZKek0wYzJtSkdhZXQySlNKOXhsejNSVlN4WXo2NzkvNDBHVEZDMHpvQ214ZFJYV2V2WVNCdz09Cg==",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.3/allEmu_0.2.3_x64-setup.exe"
     }
   }
 }
