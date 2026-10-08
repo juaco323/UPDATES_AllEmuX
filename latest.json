@@ -1,11 +1,11 @@
 {
-  "version": "0.2.6",
-  "notes": "Versión 0.2.6: video mucho más fluido en perfiles altos — la imagen del juego llega a la ventana por memoria compartida, sin copias (PS2 a 3×: de ~18 a 50–60 cuadros por segundo en pantalla). Avisos según el dispositivo: «Mando desconectado», «Teclado conectado/desconectado» con el jugador afectado. Las opciones del núcleo ahora aparecen también en núcleos modernos (Game Boy, etc.) y se corrigió una preferencia que podía forzar modo monocromo en Game Boy Color.",
-  "pub_date": "2026-10-08T19:21:18Z",
+  "version": "0.2.7",
+  "notes": "Versión 0.2.7: las consolas se muestran en vertical y agrupadas por empresa (Nintendo, Sony…), con transiciones suaves; ↑/↓ cambian de consola. Nuevo: varias carpetas de ROMs por consola (Ajustes → Carpetas de ROMs), buscando también en subcarpetas. La carpeta del emulador queda ordenada (roms/, bios/, config/…): al abrir, la app mueve sola la distribución anterior sin pisar nada.",
+  "pub_date": "2026-10-08T22:03:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEJuSVFQL2JPa3hvT2J3MmtGTVJBVjdtMEZXb1owbUtER0hBc245dmpXRitDTEQ4ejd3Mm1YcWcxZlBsbGp1ZDN6ZWtnUkQ2S3ZJR3JpYjlvak1TZ2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDg3MjU5CWZpbGU6YWxsRW11XzAuMi42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNgpRT2pzTjdJUmk4ejZrdE1Edm55SVdGenVxWUpwR3ZTVks5TUhsUnhSc2dGWUFqSVlEbGpHaG9mcDdvZy9hVTB5WTVjaC9Pak1rQjNmK29jV0pJd1hDdz09Cg==",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.6/allEmu_0.2.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEg0ZTVOSlBRaVp3UXVLdzlYZ1E1cFJNTHpxbFJJYmtiNzcwUjFZRmpsdWJjS0ZsejhyemY2Yis5ZXNBdGo4WGV5RDYxaFAzRm1IRjFXcnViMXRpWUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDk3MDEzCWZpbGU6YWxsRW11XzAuMi43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNwoyMDFjMzJaWjN1dytBOXNqMzFVSit0YU41eVJWSHRjVGloVzVEMWdKd2JBbjJzQlRZMENnY3FOMEN4QWwvcm9DTTJleTYzR0d3UjNPeW5yckRnQXNEZz09Cg==",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.7/allEmu_0.2.7_x64-setup.exe"
     }
   }
 }
