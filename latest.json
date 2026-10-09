@@ -1,11 +1,11 @@
 {
-  "version": "0.2.9",
-  "notes": "Versión 0.2.9: llega Xbox 360 (con Xenia Canary, que la app descarga y configura sola: API D3D12/Vulkan, escala 1–3×, resolución, pantalla completa, teclado con palancas e imagen del mando). Nueva opción en Ajustes → Interfaz para ver las consolas en vertical u horizontal. Queda sólo el volumen del juego. Además, arreglos: mando desconectado con la palanca inclinada, salir y volver a entrar rápido a un juego, doble arranque, volumen desde 0 %, filas repetidas en Ajustes e ISO sueltas que aparecían en varias consolas.",
-  "pub_date": "2026-10-09T01:36:33Z",
+  "version": "0.2.10",
+  "notes": "Versión 0.2.10: nuevo botón de carpeta en la biblioteca de cada consola (junto a agregar/quitar ROMs) para fijar un directorio con tus juegos, incluidas sus subcarpetas, sin copiar nada. Xbox 360: menos input lag — pantalla completa por defecto, «Automático» llega a 2× de escala (3× saturaba la GPU) y la sincronía de Xenia queda fija.",
+  "pub_date": "2026-10-09T02:03:28Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEtmTVNmTXBXcUpqVzlPTUkrbTlnOFljYnY1aFhtQk1DZkFBeW5IUHU4M2NVT0VoaitIcUxweUkyUUFGRGUyb09VWmZkUGhaTXVRV1FUdHg5ZHlGb2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTA5Nzc2CWZpbGU6YWxsRW11XzAuMi45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuOQpZa2FrNlY5bU1SaVpQNlpua3E0L1Jjamg0b0t0a0NZQVBqMXFDbHVVZm5mMTl4cXFCMXR6WWhwQS9hclBvYm96bnhVUEZ3UFF3SFhYdzh4eldKcVpCUT09Cg==",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.9/allEmu_0.2.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEo0KzgvU2YrWjB5TXNDaFNtb0dna0c5MHhydTBuRXdkZit1SWNaLzNJYVcwL1UraUF3NnVrZ3NVU3F6eHk1TTVhQnViS09uZDd6eW9tVExscmw4eXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTExMzkwCWZpbGU6YWxsRW11XzAuMi4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEwClExbXFoSk8xekl3bjlZSDY1YUtVWWdOckZMaVpjMFZqREhqZHAwY3RxSFI0SlRRM1VnRWxITHBkNm5wNG04UWRaQ1gyaHRkamFVY0lod2ZUZ0gxR0NRPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.10/allEmu_0.2.10_x64-setup.exe"
     }
   }
 }
