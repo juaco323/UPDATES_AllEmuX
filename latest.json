@@ -1,11 +1,11 @@
 {
-  "version": "0.2.8",
-  "notes": "Versión 0.2.8: los grupos de empresa del panel de consolas (Nintendo, Sony…) se pliegan y despliegan con un clic, con animación, y se recuerda cómo los dejaste. Si la consola activa queda plegada, el indicador marca su empresa; con ↑/↓ el grupo se abre solo.",
-  "pub_date": "2026-10-08T23:10:00Z",
+  "version": "0.2.9",
+  "notes": "Versión 0.2.9: llega Xbox 360 (con Xenia Canary, que la app descarga y configura sola: API D3D12/Vulkan, escala 1–3×, resolución, pantalla completa, teclado con palancas e imagen del mando). Nueva opción en Ajustes → Interfaz para ver las consolas en vertical u horizontal. Queda sólo el volumen del juego. Además, arreglos: mando desconectado con la palanca inclinada, salir y volver a entrar rápido a un juego, doble arranque, volumen desde 0 %, filas repetidas en Ajustes e ISO sueltas que aparecían en varias consolas.",
+  "pub_date": "2026-10-09T01:36:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEY4OVowV0ZHQS94bmxTTVcwSWRoUy9URmxLZ0p3R3lDZXRRWVFIM3ZMdUtHbjgwbWVGMklod1hxVWxzQnRqWTdLVzJzOG1sYndiaDNERy8vZ1hNNkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTAwOTgyCWZpbGU6YWxsRW11XzAuMi44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuOAp3cXdPWEc4Yldza1VKSWhHRVNTNG1zYUNITERCMVlJbmlkT2FFaW1vR0ZwV0pIS0Q3NHFGL2MxZUtRYjdXVm1rNi9IaHdMbzdMeUUwSTN2TGxUV0dDUT09Cg==",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.8/allEmu_0.2.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEtmTVNmTXBXcUpqVzlPTUkrbTlnOFljYnY1aFhtQk1DZkFBeW5IUHU4M2NVT0VoaitIcUxweUkyUUFGRGUyb09VWmZkUGhaTXVRV1FUdHg5ZHlGb2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTA5Nzc2CWZpbGU6YWxsRW11XzAuMi45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuOQpZa2FrNlY5bU1SaVpQNlpua3E0L1Jjamg0b0t0a0NZQVBqMXFDbHVVZm5mMTl4cXFCMXR6WWhwQS9hclBvYm96bnhVUEZ3UFF3SFhYdzh4eldKcVpCUT09Cg==",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.9/allEmu_0.2.9_x64-setup.exe"
     }
   }
 }
