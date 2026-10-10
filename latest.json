@@ -1,11 +1,11 @@
 {
-  "version": "0.2.11",
-  "notes": "Versión 0.2.11: Wii con cuatro tipos de mando por jugador (Wiimote, + Nunchuk, + Classic Controller y mando de GameCube) y puntero con el ratón al jugar con teclado (clic izquierdo/derecho/central = A/B/agitar). GameCube y Wii: la cruceta ya no mueve el stick y las palancas se asignan a teclas; los botones del ratón se asignan como teclas. Estados: importar/exportar (compatibles con RetroArch) y partidas .srm/.sav de otros emuladores. Neo Geo acepta neogeo.zip en Ajustes → BIOS. Más carátulas (Game Boy Color, N64, PSP y Xbox 360). allEmu ahora es software libre (GPL-3.0).",
-  "pub_date": "2026-10-10T00:11:53Z",
+  "version": "0.2.12",
+  "notes": "Versión 0.2.12: Wii y GameCube muestran la imagen centrada y a pantalla completa (antes el juego quedaba pegado abajo con una franja negra arriba). Además, ya no se conectan los cuatro mandos solos: sólo tienen mando los jugadores que juegan con teclado o con un mando enchufado, y al conectar uno durante la partida se suma automáticamente.",
+  "pub_date": "2026-10-10T02:15:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSE5YMU91NGJzeG5Yem8yM04yeVU3bk5XWS9mQ2p2TFBWNFJIVkltZVorRFV4RVdtS0NVNzhMUnFsK2VWSzJLMXhMRWhPV25MM0JjYjJNRXJuMlllTkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTkxMDg4CWZpbGU6YWxsRW11XzAuMi4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjExCkQ0SG5zSnkyRk9semtBd3BIMnpKMDJKZFVMakdhcW5ROEcxQ1Q3Zng0aVppelEzb3A1a0pCUG9uaVdPdklYVUNsV0twVjBTQ3ZCTlFka2hPTXFpSEJnPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.11/allEmu_0.2.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEhZK0F0VytZTWVKVDExeDVLV0s1ZVViSkxWK2huVTB4eUdpbkY1RXpTRXhuRjg3Ty9NeW00REdJMCtFL2pmdVl6TFBmM0MvdVRxTHhvaXZNeGZXZVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTk4NTAwCWZpbGU6YWxsRW11XzAuMi4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEyCmJ4Q0J5eWRIOXM3ZG5IV05TeGg5dUpsUHdaTmF2WkhCdDRqS1FPOU5wdTRvcjVuK2xmL05YZjFDK3Y1azhNUE1oZmQ2VHJkVmVQZk9HKy9aNHNsZEJRPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.12/allEmu_0.2.12_x64-setup.exe"
     }
   }
 }
