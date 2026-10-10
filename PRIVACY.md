@@ -4,47 +4,48 @@
 
 allEmu es un emulador de escritorio gratuito y de código abierto. **No tiene
 cuentas de usuario, no recopila telemetría ni estadísticas de uso y no tiene
-servidores propios que guarden datos tuyos.** Todo lo que configurás (ROMs,
-partidas guardadas, carátulas, ajustes) queda en tu PC.
+servidores propios que almacenen tus datos.** Todo lo que configuras (ROMs,
+partidas guardadas, carátulas, ajustes) permanece en tu computadora.
 
 ## Qué se conecta a internet y por qué
 
 | Función | A dónde se conecta | Qué se envía |
 |---|---|---|
-| Buscar actualizaciones | `updates-allemux.onrender.com` y GitHub (`github.com/juaco323/UPDATES_AllEmuX`) | Sólo la petición para leer la versión más reciente y descargar el instalador. |
-| Descargar carátulas | GitHub (`github.com`, `api.github.com`, `raw.githubusercontent.com`) | El nombre del archivo o el identificador (CRC/ID) del juego, para pedir su imagen. Sólo cuando usás la sincronización de carátulas. |
-| Instalar Xenia (Xbox 360) | GitHub (`api.github.com`, repositorio `xenia-canary`) | Sólo la petición de descarga. Sólo cuando la pedís vos. |
+| Buscar actualizaciones | `updates-allemux.onrender.com` y GitHub (`github.com/juaco323/UPDATES_AllEmuX`) | Solo la solicitud para consultar la versión más reciente y descargar el instalador. |
+| Descargar carátulas | GitHub (`github.com`, `api.github.com`, `raw.githubusercontent.com`) | El nombre del archivo o el identificador (CRC/ID) del juego, para solicitar su imagen. Solo cuando usas la sincronización de carátulas. |
+| Instalar Xenia (Xbox 360) | GitHub (`api.github.com`, repositorio `xenia-canary`) | Solo la solicitud de descarga. Solo cuando tú la inicias. |
 
-Estas conexiones las recibe GitHub o Render, que pueden registrar datos técnicos
-habituales de cualquier conexión web (como tu dirección IP), según sus propias
-políticas de privacidad. allEmu no recibe ni guarda esos datos.
+Estas conexiones las reciben GitHub o Render, que pueden registrar datos
+técnicos habituales de cualquier conexión web (como tu dirección IP), según sus
+propias políticas de privacidad. allEmu no recibe ni almacena esos datos.
 
 ## Estado en Discord (Rich Presence)
 
-Si tenés Discord abierto, allEmu le pasa **a la aplicación de Discord de tu
-propia PC** el título del juego, la consola y la hora de inicio de la partida,
-para mostrarlo en tu perfil. allEmu no envía nada a internet para esto: es
-Discord el que lo muestra a tus contactos, según la
+Si tienes Discord abierto, allEmu envía **a la aplicación de Discord instalada
+en tu propia computadora** el título del juego, la consola y la hora de inicio
+de la partida, para mostrarlos en tu perfil. allEmu no envía nada a internet
+para esto: es Discord quien lo muestra a tus contactos, según la
 [política de privacidad de Discord](https://discord.com/privacy).
 
-Podés apagarlo en **Ajustes → Interfaz → Estado en Discord**. Al cerrar el
-juego o la app, el estado se borra.
+Puedes desactivarlo en **Ajustes → Interfaz → Estado en Discord**. Al cerrar el
+juego o la aplicación, el estado se elimina.
 
-## Datos guardados en tu PC
+## Datos almacenados en tu computadora
 
-Ajustes, controles, partidas guardadas y carátulas se guardan en la carpeta de
-instalación de allEmu. Desinstalar la app o borrar esa carpeta los elimina.
+Los ajustes, controles, partidas guardadas y carátulas se guardan en la carpeta
+de instalación de allEmu. Al desinstalar la aplicación o eliminar esa carpeta,
+se borran.
 
 ## Menores de edad
 
-allEmu no recopila datos personales de nadie, incluidos menores de edad.
+allEmu no recopila datos personales de nadie, incluidos los menores de edad.
 
 ## Cambios
 
-Si esta política cambia, se actualiza este archivo y su fecha. El historial
-completo está en este repositorio.
+Si esta política cambia, se actualizarán este archivo y su fecha. El historial
+completo está disponible en este repositorio.
 
 ## Contacto
 
-Dudas o pedidos: abrí un issue en
+Para dudas o solicitudes, abre un *issue* en
 [github.com/juaco323/UPDATES_AllEmuX/issues](https://github.com/juaco323/UPDATES_AllEmuX/issues).
