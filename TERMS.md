@@ -26,6 +26,10 @@ proyectos de terceros, cada uno con su propia licencia (consulta
 nombres de consolas y juegos pertenecen a sus respectivos propietarios; allEmu
 no está afiliado a ellos ni a Discord.
 
+Tres núcleos incluidos (Snes9x, FinalBurn Neo y MAME 2003-Plus) tienen
+licencias de **uso no comercial**, por lo que el instalador que los incluye no
+puede venderse.
+
 ## 4. Sin garantía
 
 allEmu se proporciona **"tal cual", sin garantía de ningún tipo**, expresa o

@@ -8,6 +8,8 @@ Canal de actualizaciones de **allEmu** (Tauri updater + hosting estático en Ren
 |---------|-----|
 | `latest.json` | Manifiesto que consulta la app |
 | `releases/` | Artefactos firmados (`.nsis.zip` + `.sig`) **o** enlaces en el JSON a GitHub Releases |
+| `TERMS.md` | Condiciones del servicio (enlazadas desde la app de Discord) |
+| `PRIVACY.md` | Política de privacidad (enlazada desde la app de Discord) |
 
 No subas núcleos, ROMs ni el código de la app.
 
