@@ -1,11 +1,11 @@
 {
-  "version": "0.2.12",
-  "notes": "Versión 0.2.12: Wii y GameCube muestran la imagen centrada y a pantalla completa (antes el juego quedaba pegado abajo con una franja negra arriba). Además, ya no se conectan los cuatro mandos solos: sólo tienen mando los jugadores que juegan con teclado o con un mando enchufado, y al conectar uno durante la partida se suma automáticamente.",
-  "pub_date": "2026-10-10T02:15:21Z",
+  "version": "0.2.13",
+  "notes": "Versión 0.2.13: allEmu ahora muestra en tu perfil de Discord qué estás jugando: el juego, la consola y el tiempo de partida (también con Xbox 360). Se puede apagar en Ajustes → Interfaz → «Estado en Discord».",
+  "pub_date": "2026-10-10T23:41:12Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEhZK0F0VytZTWVKVDExeDVLV0s1ZVViSkxWK2huVTB4eUdpbkY1RXpTRXhuRjg3Ty9NeW00REdJMCtFL2pmdVl6TFBmM0MvdVRxTHhvaXZNeGZXZVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTk4NTAwCWZpbGU6YWxsRW11XzAuMi4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEyCmJ4Q0J5eWRIOXM3ZG5IV05TeGg5dUpsUHdaTmF2WkhCdDRqS1FPOU5wdTRvcjVuK2xmL05YZjFDK3Y1azhNUE1oZmQ2VHJkVmVQZk9HKy9aNHNsZEJRPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.12/allEmu_0.2.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSFA4aWFwK0lnbS9SZ0JUcExtaFpaNUtkMlJLZU1ZelpYWFdpVFh1RjRvcDRMeWoxZGorcURGaFRDTU8yTll6UU9rK0c4ZWJURWtCSXpyU3R2cEFvVlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjc1NjQxCWZpbGU6YWxsRW11XzAuMi4xM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEzCjRnNXMrYzE1eWRaQ21iREhVZGJ0MDVCR2RibjYySHBzNWNYa1ZwYStrbHdzZU1DT0xCcEJYQUZkdDB0M05OUkducWduMGVKcmdoNXJ1emY5VlJ4aERnPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.13/allEmu_0.2.13_x64-setup.exe"
     }
   }
 }
