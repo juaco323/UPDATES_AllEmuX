@@ -1,11 +1,11 @@
 {
-  "version": "0.2.13",
-  "notes": "Versión 0.2.13: allEmu ahora muestra en tu perfil de Discord qué estás jugando: el juego, la consola y el tiempo de partida (también con Xbox 360). Se puede apagar en Ajustes → Interfaz → «Estado en Discord».",
-  "pub_date": "2026-10-10T23:41:12Z",
+  "version": "0.2.14",
+  "notes": "Versión 0.2.14: todos los textos de allEmu están ahora en español neutro (por ejemplo, «Pulsa una tecla» y «Elige un juego» en lugar de las formas rioplatenses). No hay cambios de funcionamiento.",
+  "pub_date": "2026-10-11T00:00:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSFA4aWFwK0lnbS9SZ0JUcExtaFpaNUtkMlJLZU1ZelpYWFdpVFh1RjRvcDRMeWoxZGorcURGaFRDTU8yTll6UU9rK0c4ZWJURWtCSXpyU3R2cEFvVlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjc1NjQxCWZpbGU6YWxsRW11XzAuMi4xM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEzCjRnNXMrYzE1eWRaQ21iREhVZGJ0MDVCR2RibjYySHBzNWNYa1ZwYStrbHdzZU1DT0xCcEJYQUZkdDB0M05OUkducWduMGVKcmdoNXJ1emY5VlJ4aERnPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.13/allEmu_0.2.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSE1FUWJiUG1XZnpWVWJQaFk2Ty9xRG5iNzdDWFZ3bU9lR090MEZFQjRyZVVueTZXWVJJVFZSQnFKZWpmSUthS1IzRG9yZnNtdGM3OGJIL2UzL0JRZlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjc2Nzk4CWZpbGU6YWxsRW11XzAuMi4xNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjE0CmhxSUdGODYxdDdPZEpHNWVsUG80OStUUDM3Y2RGaW9HZ0txVnNwajdGemxMbUhpMTNLdFNKZEJXdFFjc20wQW94aEtrUmhxaC9kY0psVVlPQkFMMkJRPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.14/allEmu_0.2.14_x64-setup.exe"
     }
   }
 }
