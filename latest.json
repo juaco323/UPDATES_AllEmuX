@@ -1,11 +1,11 @@
 {
-  "version": "0.2.15",
-  "notes": "Versión 0.2.15: nuevo botón «Recargar» (flecha circular) junto al «−» de la barra superior. Vuelve a revisar las carpetas de ROMs de la consola actual, así aparecen los juegos que agregaste o quitaste a mano sin reiniciar allEmu. Incluye todos los núcleos, el Sys de Dolphin y chdman, así que se puede actualizar directo desde la 0.1.1.",
-  "pub_date": "2026-10-11T04:29:40Z",
+  "version": "0.2.16",
+  "notes": "Versión 0.2.16: modo claro (Ajustes → Interfaz → Tema) y un menú de pausa rediseñado: más grande, con todas las opciones a la vista, dos columnas en Opciones del núcleo y Vídeo, y botón Predeterminado. Los cambios de vídeo se ven en vivo y se guardan con Aplicar (o se descartan). Arreglos: la curvatura CRT ya no vuelve a 100 %, la ventana se ajusta al monitor y se restaura al salir del juego, GB/GBA con su proporción original y varios errores de asignación de teclas y mandos con 2 o más jugadores. «Estados» ahora se llama «Guardados».",
+  "pub_date": "2026-10-14T04:53:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEtESkp0eG1rR3dLRjhBTkhmLzNhZjE0dUYxMzl5dDk3ZWNMQWpNbmdhbDFaQ3JHSHdXWUhOMVVKckM4Uk9yUTlMeDBnVGJrVHYzK0libjZxOHFPYkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjkyOTM5CWZpbGU6YWxsRW11XzAuMi4xNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjE1CmhTcHZpVk9HVS9JdnlrcXpKcEI1Wit0YjVVMmVhakRxVmNXSnhhNklkMU9zRU85cWorb1VqOFFZVjV5UUUzTmU0N1B6V0JkQ3dzdXBSZG5nVEt1OEFBPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.15/allEmu_0.2.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEZEY2tFeVlMWXdhMHNPTnEzRlJvZWlRdUtoclNSWFdqOXBhdFN4RDR2NkcwczlUd0oxcjdBcnZEbDVaek9xTFhnWDlYZjNHOWtyTCtLd2dic2hQWndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTUzNTY2CWZpbGU6YWxsRW11XzAuMi4xNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjE2CjNsSWczRUZvTEZHRzl6Y1RENG5JdzlJODdoaHdQRXNpcEZuaHBwZ0Fmd29SQTVXZlR2ODRXZ3VqUHMxUmpaSUY0djZGeGs5T1RGdVdVTFc3VmhXdkJnPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.16/allEmu_0.2.16_x64-setup.exe"
     }
   }
 }
