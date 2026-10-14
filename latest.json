@@ -1,11 +1,11 @@
 {
-  "version": "0.2.17",
-  "notes": "Versión 0.2.17: el modo claro se rehízo con colores propios. Antes invertía la interfaz y los tonos se veían extraños; ahora tiene fondo claro, tarjetas blancas, texto oscuro y el acento naranja se lee bien. El modo oscuro no cambia.",
-  "pub_date": "2026-10-14T06:13:22Z",
+  "version": "0.2.18",
+  "notes": "Versión 0.2.18: logros de RetroAchievements (inicia sesión en Ajustes → RetroAchievements; avisos al ganar logros, modo casual o hardcore y pantalla «Logros» en la pausa). Nuevas vistas de la biblioteca en Ajustes → Interfaz: Cajas, Canales Wii y Lista. Ajustes de vídeo y del núcleo propios para cada juego (botón «Ajustes de este juego» en Detalles). Vídeo ordenado por categorías para cada consola, con las opciones avanzadas de Wii/GameCube. Puntero del Wiimote con la palanca derecha y botón para activarlo. Tiempo de juego en todas las consolas. Sin menú del clic derecho.",
+  "pub_date": "2026-10-14T07:20:24Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEZyVC85bmZLYUtSUUpyU3Y5bExYcXl3UU12WjJnTFdaSEx5STlDK29USmppY2dqek1FS3pHbDdFbnB6YzFJOVhtaHNiTzhkdW5XUjE4SE1TZGtzamdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTU4MzczCWZpbGU6YWxsRW11XzAuMi4xN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjE3CjVMdDRRcWRMUFoyWUtrSS9ZazI4UkFqZkI1WjZRUmtUUDJJNFFPOWNnUCtMUi81MkQ3akRBdldrOXVPMU9obDloK3FXR3dOVXlNeVdVM3JkUXpaUkJnPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.17/allEmu_0.2.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEVoTFRXNTRTRG9HNjN2THhGYkVVbWlGaEMxdmw3c3UzSVBDc3NUVHZ4aWFhNzMyL2hJTGlYaHVJMjVpcFc5LzBrNnMzeXZzUXloa3I5THVhdktLWlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTYyMzgzCWZpbGU6YWxsRW11XzAuMi4xOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjE4CjVxTy9BZU92MGtuc3U1cGZVMkMrWVdsL0Y4VEJkUWVZV0VrK25PaFFyb20wRUVTTFhGc3ZVbnlNUFVMNWpmSWpPUHJaSWNjOW1HeGJKUVRZRm16aUNBPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.18/allEmu_0.2.18_x64-setup.exe"
     }
   }
 }
