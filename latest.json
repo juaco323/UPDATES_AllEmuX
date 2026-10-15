@@ -1,11 +1,11 @@
 {
-  "version": "0.2.20",
-  "notes": "Versión 0.2.20: interfaz renovada, con texto más grande y legible, botones e iconos uniformes, foco visible con teclado y respeto por «reducir movimiento» de Windows. La cabecera junta las opciones de ROMs en un menú y se adapta a ventanas pequeñas. Todos los avisos aparecen en un solo lugar. El modo consola ahora se maneja entero con mando o teclado: pestañas Guardados y Ajustes, cambio de consola con L/R y leyenda según tu entrada. Se corrigieron los tirones al ver y cambiar la asignación de teclas.",
-  "pub_date": "2026-10-15T06:34:22Z",
+  "version": "0.2.21",
+  "notes": "Versión 0.2.21: el modo consola estrena la pestaña Inicio, con «Continuar» desde tu último guardado, juegos recientes y favoritos. Marca favoritos con Y (F en el teclado), busca en todas tus consolas con un teclado en pantalla (X) y salta por letra con L2/R2. Hay cinco vistas nuevas para la biblioteca: Cuadrícula, Estante, Cartuchos, XMB y Pantalla de título, y el modo consola puede usar una vista distinta a la del escritorio. Las Cajas se abren al jugar, los Canales Wii tienen reloj y se pueden reordenar, y la Lista suma un panel con el juego elegido. También se agregaron sonidos de navegación, protector de pantalla, letra Sofá/Escritorio, los logros del juego y el regreso al modo consola al salir de un juego.",
+  "pub_date": "2026-10-15T17:52:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSE5yd3RPR1pFeDlTTHdLRE9oRzlmdHpmaHlya1F2WWMybG8zUTE3K0s2bGp1dUIxSS92U0NRQmhpUE8vaHYvcHNZdDRVZy9IMjU2Z3RYY3k1eXRkVXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDQ2MDM3CWZpbGU6YWxsRW11XzAuMi4yMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjIwClpINFViRlFkeS8vdmNSa1B4VDRtbWxRTDJyVkhOcXgwVkZIaHVoUWM5RjBkSGxzN0lVblMzeUZzWVhBWHB1Ylp2dGZoOCtZZU81Rit3VVZVOEY1ZUF3PT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.20/allEmu_0.2.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEtVeXZmMmNvZ3lCQlRZcjc5S0RVVU9WczR6MEx1UlZ5U29DOHJsM3JGWHVFZ0Iyd1NnV0toRnp4ei80dTF5NHlMYnNFT0ZuWlVUdVRHZGhiaWxxRXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDg2NzM5CWZpbGU6YWxsRW11XzAuMi4yMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjIxClBlZTJHdmk5aHl6elN3K2ZHMG8yS05DdUlGWXNUcmdXZEdNdTBnNjd6enBZcyszNFdWM2JvdW5heXJzaWE2V0dMYy90MTZIMzhGR3F2VXpWZmFyY0FRPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.21/allEmu_0.2.21_x64-setup.exe"
     }
   }
 }
