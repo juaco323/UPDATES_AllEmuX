@@ -1,11 +1,11 @@
 {
-  "version": "0.2.19",
-  "notes": "Versión 0.2.19: la vista Lista junta los juegos de todas las consolas con un filtro por empresa (Nintendo, Sony, Sega, Arcade…). Todas las vistas de la biblioteca (Cajas, Canales Wii y Lista) funcionan también en el modo consola. Animación fluida al recorrer las Cajas. Canales Wii sin la barra inferior. Menú de pausa otra vez minimalista, y «Logros» aparece aunque abras la pausa recién empezado el juego.",
-  "pub_date": "2026-10-15T03:10:43Z",
+  "version": "0.2.20",
+  "notes": "Versión 0.2.20: interfaz renovada, con texto más grande y legible, botones e iconos uniformes, foco visible con teclado y respeto por «reducir movimiento» de Windows. La cabecera junta las opciones de ROMs en un menú y se adapta a ventanas pequeñas. Todos los avisos aparecen en un solo lugar. El modo consola ahora se maneja entero con mando o teclado: pestañas Guardados y Ajustes, cambio de consola con L/R y leyenda según tu entrada. Se corrigieron los tirones al ver y cambiar la asignación de teclas.",
+  "pub_date": "2026-10-15T06:34:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEZyc3ZCemVBNysvV05WWi84M2FadU10QW84UVVPQU1tOG54LzFhdVIxSy9QaU01NmtiQTNDQS9lNjFUTDVSMENMUGZRdTU4elBpQlFCaDRFd0l0YVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDMzODIxCWZpbGU6YWxsRW11XzAuMi4xOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjE5CkNUa0NrWGdWSUZDVk90VkxVd050WUlMNTI4UnRpVFBmay94S2JUMEpYVlU2VHhjYVlHSWZGR01TVFp1WmFXSVh5UG41WndIY2xmV0d0ZDVmekNScENRPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.19/allEmu_0.2.19_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSE5yd3RPR1pFeDlTTHdLRE9oRzlmdHpmaHlya1F2WWMybG8zUTE3K0s2bGp1dUIxSS92U0NRQmhpUE8vaHYvcHNZdDRVZy9IMjU2Z3RYY3k1eXRkVXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDQ2MDM3CWZpbGU6YWxsRW11XzAuMi4yMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjIwClpINFViRlFkeS8vdmNSa1B4VDRtbWxRTDJyVkhOcXgwVkZIaHVoUWM5RjBkSGxzN0lVblMzeUZzWVhBWHB1Ylp2dGZoOCtZZU81Rit3VVZVOEY1ZUF3PT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.20/allEmu_0.2.20_x64-setup.exe"
     }
   }
 }
