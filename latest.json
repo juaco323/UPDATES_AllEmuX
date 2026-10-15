@@ -1,11 +1,11 @@
 {
-  "version": "0.2.18",
-  "notes": "Versión 0.2.18: logros de RetroAchievements (inicia sesión en Ajustes → RetroAchievements; avisos al ganar logros, modo casual o hardcore y pantalla «Logros» en la pausa). Nuevas vistas de la biblioteca en Ajustes → Interfaz: Cajas, Canales Wii y Lista. Ajustes de vídeo y del núcleo propios para cada juego (botón «Ajustes de este juego» en Detalles). Vídeo ordenado por categorías para cada consola, con las opciones avanzadas de Wii/GameCube. Puntero del Wiimote con la palanca derecha y botón para activarlo. Tiempo de juego en todas las consolas. Sin menú del clic derecho.",
-  "pub_date": "2026-10-14T07:20:24Z",
+  "version": "0.2.19",
+  "notes": "Versión 0.2.19: la vista Lista junta los juegos de todas las consolas con un filtro por empresa (Nintendo, Sony, Sega, Arcade…). Todas las vistas de la biblioteca (Cajas, Canales Wii y Lista) funcionan también en el modo consola. Animación fluida al recorrer las Cajas. Canales Wii sin la barra inferior. Menú de pausa otra vez minimalista, y «Logros» aparece aunque abras la pausa recién empezado el juego.",
+  "pub_date": "2026-10-15T03:10:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEVoTFRXNTRTRG9HNjN2THhGYkVVbWlGaEMxdmw3c3UzSVBDc3NUVHZ4aWFhNzMyL2hJTGlYaHVJMjVpcFc5LzBrNnMzeXZzUXloa3I5THVhdktLWlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTYyMzgzCWZpbGU6YWxsRW11XzAuMi4xOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjE4CjVxTy9BZU92MGtuc3U1cGZVMkMrWVdsL0Y4VEJkUWVZV0VrK25PaFFyb20wRUVTTFhGc3ZVbnlNUFVMNWpmSWpPUHJaSWNjOW1HeGJKUVRZRm16aUNBPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.18/allEmu_0.2.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEZyc3ZCemVBNysvV05WWi84M2FadU10QW84UVVPQU1tOG54LzFhdVIxSy9QaU01NmtiQTNDQS9lNjFUTDVSMENMUGZRdTU4elBpQlFCaDRFd0l0YVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDMzODIxCWZpbGU6YWxsRW11XzAuMi4xOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjE5CkNUa0NrWGdWSUZDVk90VkxVd050WUlMNTI4UnRpVFBmay94S2JUMEpYVlU2VHhjYVlHSWZGR01TVFp1WmFXSVh5UG41WndIY2xmV0d0ZDVmekNScENRPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.19/allEmu_0.2.19_x64-setup.exe"
     }
   }
 }
