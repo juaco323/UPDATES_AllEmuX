@@ -1,11 +1,11 @@
 {
-  "version": "0.2.23",
-  "notes": "Versión 0.2.23: las partidas que guardas dentro del juego ya no se pierden. Se escriben en disco a los pocos segundos de guardar, aunque el autoguardado esté apagado o el emulador se cierre de golpe, y cargar un slot de guardado ya no deshace lo que guardaste dentro del juego después de ese slot.",
-  "pub_date": "2026-10-18T00:07:38Z",
+  "version": "0.2.24",
+  "notes": "Versión 0.2.24: llega Nintendo 3DS. Los juegos desencriptados (.3ds, .cci, .cxi, .3dsx) corren con el núcleo Azahar; la pantalla táctil se usa con el ratón y el Circle Pad con las flechas o la palanca del mando. También puedes jugar en modo inalámbrico local con otra PC con allEmu en tu misma red: actívalo en Ajustes → 3DS → Multijugador → Inalámbrico local.",
+  "pub_date": "2026-10-18T06:14:58Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSE9EeHRxSmFTREdOOXViQ0toVmo4bEpwRXRQUk5BS2V1MXBMUldPd2ttNVQzV0JuRGozZ0NjNHZkUm9DaS9QRlFUWUhYWWFKK3Vqc2dwVzNDbGtFMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjgyMDMyCWZpbGU6YWxsRW11XzAuMi4yM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjIzClBjUUJVQk1ERlM5RUxGSWdQYnJLa1hMYWEwOHdLdzN4Qjk1VFFNdENMZ3llVHRNSmEwUmdOeFVya2c1cjFMcmVBWm9FMGVWSm9uY2NkRHVqcUtER0JnPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.23/allEmu_0.2.23_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEtuNS80cnFxL3lYWmFWWVlaM2xwQXRTNC9zRU1QOFV2cVNmcUo2UGVpVGxwMHI0MUI5TlZnWFpFdkdiYzk0cFBKZlhVMzl4L2hTbmxQUG1qZFFoQVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzA0MDcwCWZpbGU6YWxsRW11XzAuMi4yNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjI0CklSNGFyaDVieGhBL1BnVXU2UE1KVFpkYVcrT0U4OENrTGtUcWJ6NDgwU1JFZVJBNWZwdTdLWkR5cFordVJBckhqSlNTUEhGVWRyOFJmcHg5YlBaL0RRPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.24/allEmu_0.2.24_x64-setup.exe"
     }
   }
 }
