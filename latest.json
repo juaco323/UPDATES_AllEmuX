@@ -1,11 +1,11 @@
 {
-  "version": "0.2.25",
-  "notes": "Versión 0.2.25: arreglado el inalámbrico local de 3DS. El grupo que crea una PC ahora aparece en la otra, y se puede correr la misma carrera de Mario Kart 7 entre dos PCs con allEmu en la misma red. Abre el juego primero en una PC y después en la otra.",
-  "pub_date": "2026-10-18T07:24:16Z",
+  "version": "0.2.26",
+  "notes": "Versión 0.2.26: ahora puedes jugar en modo inalámbrico local entre allEmu y una Nintendo 3DS física con Luma3DS 13.2 o posterior, en la misma red Wi-Fi. Probado con Mario Kart 7: allEmu crea el grupo, la consola se une y corren la carrera. Descarga Plugin3ds.zip de este release y sigue el README para instalar el plugin en la tarjeta SD de la consola.",
+  "pub_date": "2026-10-18T22:52:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEhJMnY3cVZkMnZQdWg2SzQrVGorVUs3bENvMlpQWmxVZjNIYWEyY1JXVUE4WlNjYU5FUi9vVjBsQm1WeTU0dklZVjRCT2cvZysxV291Mm9sendDZUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzA4MjM5CWZpbGU6YWxsRW11XzAuMi4yNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjI1CmFSeFc0QURuSUZ2NExqWU5QZ2kwYkVqTkNiTHhVekp5SkI1ZjlKYnI5czhWMXByQy85ZHQ4T1NGSlF2b3Z1NGFvUFhoUG91ZUNJdHFFT05Sanl4bkRnPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.25/allEmu_0.2.25_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSEZQWU5BR3JqUzdrUWZTcXBzL0ptMktyTUR0Nk5CSjVkTzJBbnVweW9lRENwbmJlaVB3cnBOaEs0ZlE0WHU1QmVCancyTjVoNy9KZU9XaTdzSW4xTFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzYzOTQ1CWZpbGU6YWxsRW11XzAuMi4yNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjI2CjljRzRHMjdZaUl2L1FkU2xhcHJNdW1RQzFSbWRXRjhySmdYZGdZZ1lWQ3ZCT0RmRnMyOHluaGRSbUJRVUxyTHNteXZteWFLNkl5ZEF5WmV6TG96MUJRPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.26/allEmu_0.2.26_x64-setup.exe"
     }
   }
 }
