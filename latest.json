@@ -1,11 +1,11 @@
 {
-  "version": "0.2.22",
-  "notes": "Versión 0.2.22: ahora puedes ocultar la barra con el título del juego durante la partida, desde Pausa → Vídeo o con F12. También puedes arrastrar juegos desde cualquier carpeta a la ventana del emulador: se agregan a la consola elegida y se rechazan los archivos que no sean de esa consola.",
-  "pub_date": "2026-10-17T23:38:04Z",
+  "version": "0.2.23",
+  "notes": "Versión 0.2.23: las partidas que guardas dentro del juego ya no se pierden. Se escriben en disco a los pocos segundos de guardar, aunque el autoguardado esté apagado o el emulador se cierre de golpe, y cargar un slot de guardado ya no deshace lo que guardaste dentro del juego después de ese slot.",
+  "pub_date": "2026-10-18T00:07:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSE9mbEJLUlZ4WW1TR1ZObFg0WFNjTlZDQytBNWVZWE1pb1hFaWpHRjFlL3R4V3lldzd2cThuSUFPOTBsdnZ4TUdHeFVoMWRvSENabjJuNHRPQzBoeXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjgwMjU4CWZpbGU6YWxsRW11XzAuMi4yMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjIyCjEvby81N3RYMGVJL29yd1VCQVFRR0NoVkJMOE0xNWcwVmlOd1o0WXRVM3I3SkYwV0dLTTlRLzFSdVcwRzFGSzE5T21rb3R1dldKRkJvbmlZTXpTM0FBPT0K",
-      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.22/allEmu_0.2.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2EzOFdVcHpuSE9EeHRxSmFTREdOOXViQ0toVmo4bEpwRXRQUk5BS2V1MXBMUldPd2ttNVQzV0JuRGozZ0NjNHZkUm9DaS9QRlFUWUhYWWFKK3Vqc2dwVzNDbGtFMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjgyMDMyCWZpbGU6YWxsRW11XzAuMi4yM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjIzClBjUUJVQk1ERlM5RUxGSWdQYnJLa1hMYWEwOHdLdzN4Qjk1VFFNdENMZ3llVHRNSmEwUmdOeFVya2c1cjFMcmVBWm9FMGVWSm9uY2NkRHVqcUtER0JnPT0K",
+      "url": "https://github.com/juaco323/UPDATES_AllEmuX/releases/download/v0.2.23/allEmu_0.2.23_x64-setup.exe"
     }
   }
 }
